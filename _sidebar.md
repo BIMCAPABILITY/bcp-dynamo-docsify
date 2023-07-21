@@ -1,0 +1,125 @@
+- BIMCAP
+
+    - [● **INFORMATION**](/README.md)
+    - [● **SCRIPT REQUESTS**](./_home/SCRIPT%20REQUESTS.md)
+
+    - **BY CATEGORY**
+        - 3D
+            - [● **GEN_3D**: Clash Isolate (Data Shapes UI | Dynamo Player)](/_scripts/_general/3D/GEN_3D_ClashIsolate.md)
+            - [● **GEN_3D**: Generate 3D and Plan Views From Section Box](/_scripts/_general/3D/GEN_3D_GenerateSectionBox.md)
+        - LINES
+            - [● **GEN_LI**: View Line Checker](/_scripts/_general/LINES/GEN_LI_ViewLine.md)
+        - ROOMS
+            - [● **GEN_RM**: Room Separator By Floor](/_scripts/_general/ROOMS/GEN_RM_RoomSeparator_ByFloor.md)
+        - WARNINGS
+            - [● **GEN_WAR**: Show Model With Warnings](/_scripts/_general/WARNINGS/GEN_WAR_ModelWarnings.md)
+        - WORKSETS
+            - 1.ASSIGN
+                - [● **GEN_WS**: Assign Linktype Workset](/_scripts/_general/WORKSETS/1_ASSIGN/GEN_WS_AssignLinktypeWorkset.md)
+            - [● **GEN_WS**: Create By Links](/_scripts/_general/WORKSETS/GEN_WS_CreateByLinks.md.md)
+
+    - **BY PROJECT**
+
+        - 266_HILTI
+            - 3D
+                - [● **HLT_3D**: Generate Floor Plan, Sections & 3D View - By Pick Edge](/_scripts/_project/266_HLT/3D/HLT_3D_GenerateFPSEC_PickEdge.md)
+                - [● **HLT_3D**: Generate Floor Plan, Sections & 3D View - By Section Box](/_scripts/_project/266_HLT/3D/HLT_3D_GenerateFPSEC_SectionBox.md)
+            - ASSEMBLY
+            - EXCEL
+                - [● **HLT_EXL**: Export Schedule Checklist](/_scripts/_project/266_HLT/EXCEL/HLT_3D_ExportScheduleChecklist.md)
+            - WORKSETS
+                - [● **HLT_WS**: Get Assemblies By Workset](/_scripts/_project/266_HLT/WORKSETS/HLT_WS_AssemblyByWorkset.md)
+
+        - 268_JGC
+            - FIXTURES
+                - [● **JGC_FIX**: Electrical Devices & Fixtures Location](/_scripts/_project/268_JGC/FIXTURES/JGC_FIX_ElectricalDevices%26Fixtures_Location.md)
+            - MECHANICAL EQUIPMENT
+                - [● **JGC_ME**: Mechanical Equipment Location](/_scripts/_project/268_JGC/MECHANICAL%20EQUIPMENT/JGC_ME_MechanicalEquipment_Location.md)
+            - PIPES
+                - [● **JGC_PL**: Isolate by Pipe and Slope and Fixer](/_scripts/_project/268_JGC/PIPES/JGC_PL_IsolateByPipeSlopeANDFixer.md)
+            - SUPPORTS
+                 - [● **JGC_SUP**: DUCT Hanger Placer](/_scripts/_project/268_JGC/SUPPORTS/JGC_SUP_DUCTHangerPlacer.md)
+                 - [● **JGC_SUP**: Pipe Hanger Placer](/_scripts/_project/268_JGC/SUPPORTS/JGC_SUP_PipeHangerPlacer.md)
+            - WALLS
+                - [● **JGC_WA**: Wall Penetration Duct & Cable Tray Sleeves [All]](/_scripts/_project/268_JGC/WALLS/JGC_WA_Penetration_Duct%26CableTraySleeves_ALL.md)
+                - [● **JGC_WA**: Wall Penetration Duct & Cable Tray Sleeves [Singles]](/_scripts/_project/268_JGC/WALLS/JGC_WA_Penetration_Duct%26CableTraySleeves_SINGLES.md)
+                - [● **JGC_WA**: Wall Penetration Pipe Sleeves [All]](/_scripts/_project/268_JGC/WALLS/JGC_WA_Penetration_PipeSleeves_ALL.md)
+                - [● **JGC_WA**: Wall Penetration Pipe Sleeves [Singles]](/_scripts/_project/268_JGC/WALLS/JGC_WA_Penetration_PipeSleeves_SINGLES.md)
+            - WORKSETS
+                - [● **JGC_WRK**: Workset By Discipline [Electrical]](/_scripts/_project/268_JGC/WORKSET/JGC_WRK_WorksetByDiscipline%5BJGC-ELECTRICAL%5D.md)
+                - [● **JGC_WRK**: Workset By Discipline [Fire Protection]](/_scripts/_project/268_JGC/WORKSET/JGC_WRK_WorksetByDiscipline%5BJGC-FIRE%20PROTECTION%5D.md)
+                - [● **JGC_WRK**: Workset By Discipline [HVAC]](/_scripts/_project/268_JGC/WORKSET/JGC_WRK_WorksetByDiscipline%5BJGC-HVAC%5D.md)
+                - [● **JGC_WRK**: Workset By Discipline [PLUMBING]](/_scripts/_project/268_JGC/WORKSET/JGC_WRK_WorksetByDiscipline%5BJGC-PLUMBING%5D.md)
+
+        - 272_PDP
+            - [● **PDP_WA**: Comments](/_scripts/_project/272_PDP/WALLS/PDP_WA_Comments.md)
+            - [● **PDP_WA**: Filter Walls >3000mm](/_scripts/_project/272_PDP/WALLS/PDP_WA_Above.md)
+            - [● **PDP_WA**: Filter Walls <3000mm](/_scripts/_project/272_PDP/WALLS/PDP_WA_Below.md)
+            - [● **PDP_WA**: WallProtection_Corner_ByEdge_Placement](/_scripts/_project/272_PDP/WALLS/PDP_WA_WallProtection_Corner_ByEdge_Placement.md)
+            - [● **PDP_WA**: WallProtection_Corner_ByEdge_Rotation](/_scripts/_project/272_PDP/WALLS/PDP_WA_WallProtection_Corner_ByEdge_Rotation.md)
+            - [● **PDP_WA**: WallProtection_Horizontal_Placement](/_scripts/_project/272_PDP/WALLS/PDP_WA_WallProtection_Hor_Placement.md)
+            - [● **PDP_WA**: Place Wall Protection_Horizontal_OffsetNoElement](/_scripts/_project/272_PDP/WALLS/PDP_WA_PlaceWallProtection_Hor_OffsetNoElement.md)
+            - [● **PDP_WA**: WallProtection_Horizontal_Cut&Offset](/_scripts/_project/272_PDP/WALLS/PDP_WA_WallProtection_Horizontal_Cut%20%26%20Offset.md)
+
+        - 275_VESTEDA
+            - [● **275_AE**: Automate Area Plan Views](/_scripts/_project/275_VESTEDA/AREA/AE_AUTOMATE%20AREA%20PLAN%20VIEWS.md)
+            - [● **275_AE**: NVO Area Plans](/_scripts/_project/275_VESTEDA/AREA/AE_NVO.md)
+            - [● **275_AE**: BVO Area Plans](/_scripts/_project/275_VESTEDA/AREA/AE_BVO.md)
+            - [● **275_AE**: GO Area Plans](/_scripts/_project/275_VESTEDA/AREA/AE_GO.md)
+            - [● **275_WA**: Isolate Walls](/_scripts/_project/275_VESTEDA/WALLS/275_WA_IsolateWalls.md)
+            - [● **275_WA**: Horizontal](/_scripts/_project/275_VESTEDA/WALLS/275_WA_IsolateWalls.md)
+            - [● **275_WA**: Isolate Walls](/_scripts/_project/275_VESTEDA/WALLS/275_WA_IsolateWalls.md)
+
+        - 263_VMC
+            - 3D
+                - [● **VMC_3D**: Isolate By Warnings](/_scripts/_project/263_VMC/3D/VMC_3D_IsolateByWarnings.md)
+            - AREA
+                - [● **VMC_AE**: Area Boundary from CAD Layer](/_scripts/_project/263_VMC/AREA/VMC_AE_Areaboundary_fromCADLayer.md)
+                - [● **VMC_AE**: Get Area Data from Linked Rooms](/_scripts/_project/263_VMC/AREA/VMC_AE_GetAreaData_fromLinkedRooms.md)
+                - [● **VMC_AE**: Create Area Boundary from Linked Floors](/_scripts/_project/263_VMC/AREA/VMC_AE_CreateAreaboundary_fromLinkedFloors.md)
+                - [● **VMC_AE**: Set Area Code in Key Value](/_scripts/_project/263_VMC/AREA/VMC_AE_SetAreaCode_inKeyValue.md)
+            - CHECKER
+                - [● **VMC_NC**: Naming Convention Checker](/_scripts/_project/263_VMC/CHECKER/VMC_NamingConventionChecker.md)
+            - COLLECTOR
+                - [● **VMC_COLLR**: Get Deleted Elements_WA_Offaxis](/_scripts/_project/263_VMC/COLLECTOR/VMC_COLLR_GetDeletedElements_WA_OffAxis.md)
+                - [● **VMC_COLLR**: Get Element Properties_WA_Offaxis](/_scripts/_project/263_VMC/COLLECTOR/VMC_COLLR_GetElementProperties_WA_OffAxis.md)
+            - COLUMNS
+                - [● **VMC_COL**: Surface Finishes](/_scripts/_project/263_VMC/COLUMNS/VMC_COL_SurfaceFinishes.md)
+            - CREATOR
+                - [● **VMC_CREA**: Recreate Deleted Elements](/_scripts/_project/263_VMC/CREATOR/VMC_CREA_RecreateDeletedElements.md)
+            - FLOORS
+                - [● **VMC_FLR**: Floor Slightly off Axis Fixer](/_scripts/_project/263_VMC/FLOORS/VMC_FLR_SightlyoffAxisFixer.md)
+            - LINES
+                - [● **VMC_LI**: Model Line Slightly Off-Axis Fixer](/_scripts/_project/263_VMC/LINES/VMC_LI_ModelLineSlightlyOffAxisFixer.md)
+            - RENAMER
+                - [● **VMC_REN**: Family Renamer](/_scripts/_project/263_VMC/RENAMER/VMC_REN_FamilyRenamer.md)
+                - [● **VMC_REN**: Navisworks Clashes](/_scripts/_project/263_VMC/RENAMER/VMC_REN_NavisworksClashes.md)
+                - [● **VMC_REN**: Material Remover](/_scripts/_project/263_VMC/RENAMER/VMC_REN_MaterialRemover.md)
+            - ROOMS
+                - [● **VMC_RM**: AutoNamer_Naming Convention Checker](/_scripts/_project/263_VMC/ROOMS/VMC_RM_AutoNamer_NamingConventionChecker.md)
+                - [● **VMC_RM**: AutoNamer_SubElement & CategoryFunction](/_scripts/_project/263_VMC/ROOMS/VMC_RM_AutoNamer_SubElement%20%26%20CategoryFunction.md)
+                - [● **VMC_RM**: BOQ_RoomSurfaces_WallColumnCeiling](/_scripts/_project/263_VMC/ROOMS/VMC_RM_BOQ_RoomSurfaces_WallColumnCeiling.md)
+                - [● **VMC_RM**: Get Room Grid Location](/_scripts/_project/263_VMC/ROOMS/VMC_RM_GetRoomGridLocation.md)
+                - [● **VMC_RM**: Naming Convention_Room Categories](/_scripts/_project/263_VMC/ROOMS/VMC_RM_NC_RoomCategories.md)
+                - [● **VMC_RM**: Renamer_Room Categories](/_scripts/_project/263_VMC/ROOMS/VMC_RM_REN_RoomCategories.md)
+                - [● **VMC_RM**: Room Separation Line Creation_CAD](/_scripts/_project/263_VMC/ROOMS/VMC_RM_SeparationLineCreation_CAD.md)
+                - [● **VMC_RM**: Room Slightly Off Axis Fixer](/_scripts/_project/263_VMC/ROOMS/VMC_RM_SighlyoffAxisFixer.md)
+            - SCHEDULES
+                - [● **VMC_SCH**: Schedule Output](/_scripts/_project/263_VMC/SCHEDULES/VMC_SCH_ScheduleOutput.md)
+                - [● **VMC_SCH**: Schedule Input](/_scripts/_project/263_VMC/SCHEDULES/VMC_SCH_ScheduleInput.md)
+            - STAIRS
+                - [● **VMC_ST**: Stair Soffit Finishes](/_scripts/_project/263_VMC/STAIRS/VMC_ST_SoffitFinishes.md)
+            - WALLS
+                - [● **VMC_WA**: Wall Slightly Off Axis Fixer](/_scripts/_project/263_VMC/WALLS/VMC_WA_SighlyoffAxisFixer.md)
+            - WORKSETS
+                - [● **VMC_WRK**: Workset by Level](/_scripts/_project/263_VMC/WORKSETS/VMC_WRK_WorksetByLevel.md)
+                - [● **VMC_WRK**: Workset Collector](/_scripts/_project/263_VMC/WORKSETS/VMC_WRK_WorksetCollector.md)
+                - [● **VMC_WRK**: Workset Renamer](/_scripts/_project/263_VMC/WORKSETS/VMC_WRK_WorksetRenamer.md)
+
+- R&D
+    - [● **VERSION CONTROL**](/_home/VERSIONCONTROL.md)
+    - [● **DYNAMO VIEWER**](/_home/DYNAMOVIEWER.md)
+    - [● **REVIT ADDINS**](/_home/REVITADDINS.md)
+
+
+
