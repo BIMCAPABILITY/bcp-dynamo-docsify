@@ -1,4 +1,4 @@
-# CHANGELOG [GEN_AE : AREA SEPARATION LINE FROM FLOOR]
+# CHANGELOG [GEN_AE : AREA SEPARATION LINE FROM CAD LAYER]
 All Notable Changes to the Script will be Documented in This File.
 
 | Comment | Description |
@@ -16,5 +16,5 @@ All Notable Changes to the Script will be Documented in This File.
 
 ### [1.0.0] - 2023-07-06
 ##### CREATED
-- Script Created by Abjeet Singh
+- Script Created by Melvin Tuliao
 
