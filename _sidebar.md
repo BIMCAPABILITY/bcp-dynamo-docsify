@@ -6,6 +6,7 @@
     - **BY CATEGORY**
         - 3D
             - [● **GEN_3D**: Clash Isolate (Data Shapes UI | Dynamo Player)](/_scripts/_general/3D/GEN_3D_ClashIsolate.md)
+            - [● **GEN_3D**: Isolate Elements by Warnings](/_scripts/_general/3D/GEN_3D_IsolateByWarnings.md)
             - [● **GEN_3D**: Generate 3D and Plan Views From Section Box](/_scripts/_general/3D/GEN_3D_GenerateSectionBox.md)
         - AREA
             - [● **GEN_AE**: Generate Area Separator Lines from Floor](/_scripts/_general/AREA/GEN_AE_AreaSepLinefromFloor.md)
@@ -19,7 +20,9 @@
             - [● **GEN_MAT**: Family Material Remover](/_scripts/_general/MATERIALS/GEN_MAT_RemoveMaterialByFamilyType.md)
         - ROOMS
             - [● **GEN_RM**: Room Separator By Floor](/_scripts/_general/ROOMS/GEN_RM_RoomSeparator_ByFloor.md)
+            - [● **GEN_RM**: Room Separator By Cad Layers](/_scripts/_general/ROOMS/GEN_RM_RoomBoundary_fromCADLayer.md)
             - [● **GEN_RM**: Get Room Point Location](/_scripts/_general/ROOMS/GEN_RM_GetRoomPointLocation.md)
+
         - WARNINGS
             - [● **GEN_WAR**: Show Model With Warnings](/_scripts/_general/WARNINGS/GEN_WAR_ModelWarnings.md)
         - WORKSETS
