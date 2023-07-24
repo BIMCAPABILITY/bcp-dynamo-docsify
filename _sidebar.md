@@ -10,6 +10,7 @@
         - AREA
             - [● **GEN_AE**: Generate Area Separator Lines from Floor](/_scripts/_general/AREA/GEN_AE_AreaSepLinefromFloor.md)
             - [● **GEN_AE**: Generate Area Separator Lines from Cad Layer](/_scripts/_general/AREA/GEN_AE_AreaBoundary_fromCADLayer.md)
+            - [● **GEN_AE**: Create Area Data Based From Linked Rooms](/_scripts/_general/AREA/GEN_AE_GetAreaData_fromLinkedRooms.md)
         - LINES
             - [● **GEN_LI**: View Line Checker](/_scripts/_general/LINES/GEN_LI_ViewLine.md)
         - ROOMS
