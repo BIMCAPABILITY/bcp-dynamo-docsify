@@ -11,10 +11,10 @@ All Notable Changes to the Script will be Documented in This File.
 
 | File Path | 
 | :-- |
-| 04_Resources\05_Research & Development\01_Dynamo\01_Scripts\01_GENERAL\3D |
+| 04_Resources\05_Research & Development\01_Dynamo\01_Scripts\01_GENERAL\AREA |
 ------------------------------------------------------------------
 
 ### [1.0.0] - 2023-07-06
 ##### CREATED
-- Script Created by Abjeet Singh
+- Script Created
 

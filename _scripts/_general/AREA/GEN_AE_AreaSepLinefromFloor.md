@@ -16,8 +16,8 @@
 | GEN_3D |  | Clockwork for Dynamo 1.x V1.34.0 | | | Revit 2021.1 | Abjeet Singh | | GEN_AE_AreaSepLinefromFloor V1.0.0 |
 |        |  | Genius Loci V2023.1.23           | | |              |              | | (https://bimcapcom.sharepoint.com/:u:/s/BCP-Main/EZwAUz3pFcBAo5XrnubsDfwBLRkCtZZTHBcPhlcUatbmvA?e=qfOcE5) |
 |        |  | Synthesize toolkit V12.7.5       | | |              |              | | |
-|        |  | Clockwork for Dynamo 2x 2.4.0    | | |
-|        |  | archi-lab.net 2023.213.1523      | | |
+|        |  |     | | |
+|        |  |     | | |
 ------------------------------------------------------------
 > #### SCRIPT: 
 
