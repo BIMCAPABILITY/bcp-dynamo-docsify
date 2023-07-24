@@ -15,6 +15,8 @@
             - [● **GEN_FLR**: Floor Sketch is Slightly Off Axis Fixer](_scripts/_general/FLOOR/GEN_FLR_SightlyoffAxisFixer.md)
         - LINES
             - [● **GEN_LI**: View Line Checker](/_scripts/_general/LINES/GEN_LI_ViewLine.md)
+        - MATERIALS
+            - [● **GEN_MAT**: Family Material Remover](/_scripts/_general/MATERIALS/GEN_MAT_RemoveMaterialByFamilyType.md)
         - ROOMS
             - [● **GEN_RM**: Room Separator By Floor](/_scripts/_general/ROOMS/GEN_RM_RoomSeparator_ByFloor.md)
             - [● **GEN_RM**: Get Room Point Location](/_scripts/_general/ROOMS/GEN_RM_GetRoomPointLocation.md)
