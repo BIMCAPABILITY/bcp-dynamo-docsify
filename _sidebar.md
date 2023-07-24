@@ -15,7 +15,9 @@
             - [● **GEN_LI**: View Line Checker](/_scripts/_general/LINES/GEN_LI_ViewLine.md)
         - ROOMS
             - [● **GEN_RM**: Room Separator By Floor](/_scripts/_general/ROOMS/GEN_RM_RoomSeparator_ByFloor.md)
+            - [● **GEN_RM**: Room Separator By Cad Layers](/_scripts/_general/ROOMS/GEN_RM_RoomBoundary_fromCADLayer.md)
             - [● **GEN_RM**: Get Room Point Location](/_scripts/_general/ROOMS/GEN_RM_GetRoomPointLocation.md)
+
         - WARNINGS
             - [● **GEN_WAR**: Show Model With Warnings](/_scripts/_general/WARNINGS/GEN_WAR_ModelWarnings.md)
         - WORKSETS
