@@ -25,7 +25,6 @@
             - 3D
                 - [● **HLT_3D**: Generate Floor Plan, Sections & 3D View - By Pick Edge](/_scripts/_project/266_HLT/3D/HLT_3D_GenerateFPSEC_PickEdge.md)
                 - [● **HLT_3D**: Generate Floor Plan, Sections & 3D View - By Section Box](/_scripts/_project/266_HLT/3D/HLT_3D_GenerateFPSEC_SectionBox.md)
-                - [● **HLT_3D**: TRIAL 2]
             - ASSEMBLY
             - EXCEL
                 - [● **HLT_EXL**: Export Schedule Checklist](/_scripts/_project/266_HLT/EXCEL/HLT_3D_ExportScheduleChecklist.md)
