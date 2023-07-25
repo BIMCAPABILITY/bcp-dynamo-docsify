@@ -37,8 +37,8 @@
             - 3D
                 - [● **HLT_3D**: Generate Floor Plan, Sections & 3D View - By Pick Edge](/_scripts/_project/266_HLT/3D/HLT_3D_GenerateFPSEC_PickEdge.md)
                 - [● **HLT_3D**: Generate Floor Plan, Sections & 3D View - By Section Box](/_scripts/_project/266_HLT/3D/HLT_3D_GenerateFPSEC_SectionBox.md)
-                - [● **HLT_3D**: HIGHLIGHTS ASSEMBLY THAT HAS CLASHES WITH LINKED ELEMENTS - VISUAL AID](/_scripts/_project/266_HLT/3D/HLT_3D_GeometryClashesInViewByAssembly.md)
-                - [● **HLT_3D**: HIGHLIGHTS ASSEMBLY MEMBERS THAT HAS CLASHES WITH LINKED ELEMENTS - VISUAL AID](/_scripts/_project/266_HLT/3D/HLT_3D_GeometryClashesInViewByMembers.md)
+                - [● **HLT_3D**: HIGHLIGHTS ASSEMBLY THAT HAS CLASHES WITH LINKED ELEMENTS](/_scripts/_project/266_HLT/3D/HLT_3D_GeometryClashesInViewByAssembly.md)
+                - [● **HLT_3D**: HIGHLIGHTS ASSEMBLY MEMBERS THAT HAS CLASHES WITH LINKED ELEMENTS](/_scripts/_project/266_HLT/3D/HLT_3D_GeometryClashesInViewByMembers.md)
             - ASSEMBLY
                 - [● **HLT_ASM**: POPULATE BY ASSEMBLY TYPE](/_scripts/_project/266_HLT/ASSEMBLY/HLT_ASM_AssemblyPopulateHost.md)
                 - [● **HLT_ASM**: HIGHLIGHTS ASSEMBLY THAT DOESN'T HAVE A HOST OR WORKPLANE](/_scripts/_project/266_HLT/ASSEMBLY/HLT_ASM_MembersHasNoWorkPlane.md)                
