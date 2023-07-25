@@ -35,6 +35,9 @@
             - [● **GEN_RM**: Room Separator For Linked Structural Columns](/_scripts/_general/ROOMS/GEN_RM_RmSepLineForStrCol_Linked.md)
             - [● **GEN_RM**: Room Surface Finish Area](/_scripts/_general/ROOMS/GEN_RM_RoomSurfaceFinishArea.md)
             - [● **GEN_RM**: Slightly Off Axis Fixer](/_scripts/_general/ROOMS/GEN_RM_SlightlyoffAxisFixer.md)
+        - WALLS
+            - [● **GEN_WA**: Wall Protection Corner by Edge](/_scripts/_general/WALLS/GEN_WA_WallProtection_Corner_ByEdge.md)
+            - [● **GEN_WA**: Wall Slightly Off Axis Fixer](/_scripts/_general/WALLS/GEN_WA_SlightlyoffAxisFixer.md)
         - WARNINGS
             - [● **GEN_WAR**: Show Model With Warnings](/_scripts/_general/WARNINGS/GEN_WAR_ModelWarnings.md)
         - WORKSETS
