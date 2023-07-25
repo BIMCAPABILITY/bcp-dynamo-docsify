@@ -44,6 +44,9 @@
             - 1.ASSIGN
                 - [● **GEN_WS**: Assign Linktype Workset](/_scripts/_general/WORKSETS/1_ASSIGN/GEN_WS_AssignLinktypeWorkset.md)
             - [● **GEN_WS**: Create By Links](/_scripts/_general/WORKSETS/GEN_WS_CreateByLinks.md)
+            - [● **GEN_WS**: Workset By Level](/_scripts/_general/WORKSETS/GEN_WS_WorksetByLevel.md)
+            - [● **GEN_WS**: Workset Renamer](/_scripts/_general/WORKSETS/GEN_WS_WorksetRenamer.md)
+
     - **BY PROJECT**
 
         - 266_HILTI
