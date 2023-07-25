@@ -21,6 +21,8 @@
         - ROOMS
             - [● **GEN_RM**: Room Separator By Floor](/_scripts/_general/ROOMS/GEN_RM_RoomSeparator_ByFloor.md)
             - [● **GEN_RM**: Room Separator By Cad Layers](/_scripts/_general/ROOMS/GEN_RM_RoomBoundary_fromCADLayer.md)
+            - [● **GEN_RM**: Room Separator For Linked Structural Columns](/_scripts/_general/ROOMS/GEN_RM_RmSepLineForStrCol_Linked.md)
+            - [● **GEN_RM**: Get Room Grid Location](/_scripts/_general/ROOMS/GEN_RM_GetRoomGridLocation.md)           
             - [● **GEN_RM**: Get Room Point Location](/_scripts/_general/ROOMS/GEN_RM_GetRoomPointLocation.md)
 
         - WARNINGS
