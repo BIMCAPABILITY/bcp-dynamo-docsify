@@ -21,7 +21,7 @@
 ------------------------------------------------------------
 > #### SCRIPT: 
 
-<img src="/_scripts/_general/PIPES/images/GEN_PL_IsolateByPipeSlopeANDFixer.png>
+<img src="/_scripts/_general/PIPES/images/GEN_PL_IsolateByPipeSlopeANDFixer.png">
 ------------------------------------------------------------
 
 > #### DEMO: 
