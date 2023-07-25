@@ -20,6 +20,8 @@
             - [● **GEN_LI**: View Line Checker](/_scripts/_general/LINES/GEN_LI_ViewLine.md)
         - MATERIALS
             - [● **GEN_MAT**: Family Material Remover](/_scripts/_general/MATERIALS/GEN_MAT_RemoveMaterialByFamilyType.md)
+        - PIPES
+            - [● **GEN_PL**: Adjust Pipe Slopes](/_scripts/_general/PIPES/GEN_PL_IsolateByPipeSlopeANDFixer.md)            
         - ROOMS
             - [● **GEN_RM**: Room Separator By Floor](/_scripts/_general/ROOMS/GEN_RM_RoomSeparator_ByFloor.md)
             - [● **GEN_RM**: Room Separator By Cad Layers](/_scripts/_general/ROOMS/GEN_RM_RoomBoundary_fromCADLayer.md)
