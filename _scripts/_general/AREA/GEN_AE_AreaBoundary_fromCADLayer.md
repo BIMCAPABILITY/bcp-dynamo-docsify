@@ -35,4 +35,4 @@
 - *01: Make sure that you are in an active AreaPlan view.*
 - *02: Run Dynamo Playe*
 - *03: Input Target Layer Name*
-- *04: Run the Dynamo Player
+- *04: Run the Dynamo Player*

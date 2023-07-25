@@ -12,6 +12,8 @@
             - [● **GEN_AE**: Generate Area Separator Lines from Floor](/_scripts/_general/AREA/GEN_AE_AreaSepLinefromFloor.md)
             - [● **GEN_AE**: Generate Area Separator Lines from Cad Layer](/_scripts/_general/AREA/GEN_AE_AreaBoundary_fromCADLayer.md)
             - [● **GEN_AE**: Create Area Data Based From Linked Rooms](/_scripts/_general/AREA/GEN_AE_GetAreaData_fromLinkedRooms.md)
+        - BOQ
+            - [● **GEN_BOQ**: Get Element Location By Rooms](/_scripts/_general/BOQ/GEN_AE_AreaBoundary_fromCADLayer.md)            
         - FLOORS
             - [● **GEN_FLR**: Floor Sketch is Slightly Off Axis Fixer](_scripts/_general/FLOOR/GEN_FLR_SightlyoffAxisFixer.md)
         - LINES
