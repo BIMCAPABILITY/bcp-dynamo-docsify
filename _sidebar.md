@@ -40,8 +40,8 @@
                 - [● **HLT_3D**: HIGHLIGHTS ASSEMBLY THAT HAS CLASHES WITH LINKED ELEMENTS - VISUAL AID](/_scripts/_project/266_HLT/3D/HLT_3D_GeometryClashesInViewByAssembly.md)
                 - [● **HLT_3D**: HIGHLIGHTS ASSEMBLY MEMBERS THAT HAS CLASHES WITH LINKED ELEMENTS - VISUAL AID](/_scripts/_project/266_HLT/3D/HLT_3D_GeometryClashesInViewByMembers.md)
             - ASSEMBLY
-                - [● **HLT_3D**: POPULATE BY ASSEMBLY TYPE](/_scripts/_project/266_HLT/ASSEMBLY/HLT_ASM_AssemblyPopulateHost.md)
-                - [● **HLT_3D**: HIGHLIGHTS ASSEMBLY THAT DOESN'T HAVE A HOST OR WORKPLANE](/_scripts/_project/266_HLT/ASSEMBLY/HLT_ASM_MembersHasNoWorkPlane.md)                
+                - [● **HLT_ASM**: POPULATE BY ASSEMBLY TYPE](/_scripts/_project/266_HLT/ASSEMBLY/HLT_ASM_AssemblyPopulateHost.md)
+                - [● **HLT_ASM**: HIGHLIGHTS ASSEMBLY THAT DOESN'T HAVE A HOST OR WORKPLANE](/_scripts/_project/266_HLT/ASSEMBLY/HLT_ASM_MembersHasNoWorkPlane.md)                
             - EXCEL
                 - [● **HLT_EXL**: Export Schedule Checklist](/_scripts/_project/266_HLT/EXCEL/HLT_3D_ExportScheduleChecklist.md)
             - WORKSETS
