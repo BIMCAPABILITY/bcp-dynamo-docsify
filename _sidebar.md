@@ -25,14 +25,13 @@
         - PIPES
             - [● **GEN_PL**: Adjust Pipe Slopes](/_scripts/_general/PIPES/GEN_PL_IsolateByPipeSlopeANDFixer.md)            
         - ROOMS
+            - [● **GEN_RM**: Get Room Grid Location](/_scripts/_general/ROOMS/GEN_RM_GetRoomGridLocation.md)           
+            - [● **GEN_RM**: Get Room Point Location](/_scripts/_general/ROOMS/GEN_RM_GetRoomPointLocation.md)        
             - [● **GEN_RM**: Room Separator By Floor](/_scripts/_general/ROOMS/GEN_RM_RoomSeparator_ByFloor.md)
             - [● **GEN_RM**: Room Separator By Cad Layers](/_scripts/_general/ROOMS/GEN_RM_RoomBoundary_fromCADLayer.md)
             - [● **GEN_RM**: Room Separator For Linked Structural Columns](/_scripts/_general/ROOMS/GEN_RM_RmSepLineForStrCol_Linked.md)
             - [● **GEN_RM**: Room Surface Finish Area](/_scripts/_general/ROOMS/GEN_RM_RoomSurfaceFinishArea.md)
-            - [● **GEN_RM**: Get Room Grid Location](/_scripts/_general/ROOMS/GEN_RM_GetRoomGridLocation.md)           
-            - [● **GEN_RM**: Get Room Point Location](/_scripts/_general/ROOMS/GEN_RM_GetRoomPointLocation.md)
-        - WALLS
-            - [● **GEN_WA**: Wall Protection At Corner Edge](/_scripts/_general/WALLS/GEN_WA_WallProtection_Corner_ByEdge.md)
+            - [● **GEN_RM**: Slightly Off Axis Fixer](/_scripts/_general/ROOMS/GEN_RM_SlightlyoffAxisFixer.md)
         - WARNINGS
             - [● **GEN_WAR**: Show Model With Warnings](/_scripts/_general/WARNINGS/GEN_WAR_ModelWarnings.md)
         - WORKSETS
