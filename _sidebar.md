@@ -37,7 +37,11 @@
             - 3D
                 - [● **HLT_3D**: Generate Floor Plan, Sections & 3D View - By Pick Edge](/_scripts/_project/266_HLT/3D/HLT_3D_GenerateFPSEC_PickEdge.md)
                 - [● **HLT_3D**: Generate Floor Plan, Sections & 3D View - By Section Box](/_scripts/_project/266_HLT/3D/HLT_3D_GenerateFPSEC_SectionBox.md)
+                - [● **HLT_3D**: HIGHLIGHTS ASSEMBLY THAT HAS CLASHES WITH LINKED ELEMENTS - VISUAL AID](/_scripts/_project/266_HLT/3D/HLT_3D_GeometryClashesInViewByAssembly.md)
+                - [● **HLT_3D**: HIGHLIGHTS ASSEMBLY MEMBERS THAT HAS CLASHES WITH LINKED ELEMENTS - VISUAL AID](/_scripts/_project/266_HLT/3D/HLT_3D_GeometryClashesInViewByMembers.md)
             - ASSEMBLY
+                - [● **HLT_3D**: POPULATE BY ASSEMBLY TYPE](/_scripts/_project/266_HLT/ASSEMBLY/HLT_ASM_AssemblyPopulateHost.md)
+                - [● **HLT_3D**: HIGHLIGHTS ASSEMBLY THAT DOESN'T HAVE A HOST OR WORKPLANE](/_scripts/_project/266_HLT/ASSEMBLY/HLT_ASM_MembersHasNoWorkPlane.md)                
             - EXCEL
                 - [● **HLT_EXL**: Export Schedule Checklist](/_scripts/_project/266_HLT/EXCEL/HLT_3D_ExportScheduleChecklist.md)
             - WORKSETS
