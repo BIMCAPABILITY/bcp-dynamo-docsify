@@ -29,7 +29,8 @@
             - [● **GEN_RM**: Room Surface Finish Area](/_scripts/_general/ROOMS/GEN_RM_RoomSurfaceFinishArea.md)
             - [● **GEN_RM**: Get Room Grid Location](/_scripts/_general/ROOMS/GEN_RM_GetRoomGridLocation.md)           
             - [● **GEN_RM**: Get Room Point Location](/_scripts/_general/ROOMS/GEN_RM_GetRoomPointLocation.md)
-
+        - WALLS
+            - [● **GEN_WA**: Wall Protection At Corner Edge](/_scripts/_general/WALLS/GEN_WA_WallProtection_Corner_ByEdge.md)
         - WARNINGS
             - [● **GEN_WAR**: Show Model With Warnings](/_scripts/_general/WARNINGS/GEN_WAR_ModelWarnings.md)
         - WORKSETS
