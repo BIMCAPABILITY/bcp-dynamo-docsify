@@ -12,12 +12,16 @@
             - [● **GEN_AE**: Generate Area Separator Lines from Floor](/_scripts/_general/AREA/GEN_AE_AreaSepLinefromFloor.md)
             - [● **GEN_AE**: Generate Area Separator Lines from Cad Layer](/_scripts/_general/AREA/GEN_AE_AreaBoundary_fromCADLayer.md)
             - [● **GEN_AE**: Create Area Data Based From Linked Rooms](/_scripts/_general/AREA/GEN_AE_GetAreaData_fromLinkedRooms.md)
+        - BOQ
+            - [● **GEN_BOQ**: Get Element Location By Rooms](/_scripts/_general/BOQ/GEN_AE_AreaBoundary_fromCADLayer.md)            
         - FLOORS
             - [● **GEN_FLR**: Floor Sketch is Slightly Off Axis Fixer](_scripts/_general/FLOOR/GEN_FLR_SightlyoffAxisFixer.md)
         - LINES
             - [● **GEN_LI**: View Line Checker](/_scripts/_general/LINES/GEN_LI_ViewLine.md)
         - MATERIALS
             - [● **GEN_MAT**: Family Material Remover](/_scripts/_general/MATERIALS/GEN_MAT_RemoveMaterialByFamilyType.md)
+        - PIPES
+            - [● **GEN_PL**: Adjust Pipe Slopes](/_scripts/_general/PIPES/GEN_PL_IsolateByPipeSlopeANDFixer.md)            
         - ROOMS
             - [● **GEN_RM**: Get Room Grid Location](/_scripts/_general/ROOMS/GEN_RM_GetRoomGridLocation.md)           
             - [● **GEN_RM**: Get Room Point Location](/_scripts/_general/ROOMS/GEN_RM_GetRoomPointLocation.md)        
@@ -26,7 +30,6 @@
             - [● **GEN_RM**: Room Separator For Linked Structural Columns](/_scripts/_general/ROOMS/GEN_RM_RmSepLineForStrCol_Linked.md)
             - [● **GEN_RM**: Room Surface Finish Area](/_scripts/_general/ROOMS/GEN_RM_RoomSurfaceFinishArea.md)
             - [● **GEN_RM**: Slightly Off Axis Fixer](/_scripts/_general/ROOMS/GEN_RM_SlightlyoffAxisFixer.md)
-
         - WARNINGS
             - [● **GEN_WAR**: Show Model With Warnings](/_scripts/_general/WARNINGS/GEN_WAR_ModelWarnings.md)
         - WORKSETS
