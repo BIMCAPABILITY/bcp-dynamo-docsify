@@ -8,6 +8,8 @@
             - [● **GEN_3D**: Clash Isolate (Data Shapes UI | Dynamo Player)](/_scripts/_general/3D/GEN_3D_ClashIsolate.md)
             - [● **GEN_3D**: Isolate Elements by Warnings](/_scripts/_general/3D/GEN_3D_IsolateByWarnings.md)
             - [● **GEN_3D**: Generate 3D and Plan Views From Section Box](/_scripts/_general/3D/GEN_3D_GenerateSectionBox.md)
+            - [● **GEN_3D**: HIGHLIGHTS ASSEMBLY THAT HAS CLASHES WITH LINKED ELEMENTS](/_scripts/_general/3D/GEN_3D_GeometryClashesInViewByAssembly.md)
+            - [● **GEN_3D**: HIGHLIGHTS ASSEMBLY MEMBERS THAT HAS CLASHES WITH LINKED ELEMENTS](/_scripts/_general/3D/GEN_3D_GeometryClashesInViewByMembers.md)            
         - AREA
             - [● **GEN_AE**: Generate Area Separator Lines from Floor](/_scripts/_general/AREA/GEN_AE_AreaSepLinefromFloor.md)
             - [● **GEN_AE**: Generate Area Separator Lines from Cad Layer](/_scripts/_general/AREA/GEN_AE_AreaBoundary_fromCADLayer.md)
