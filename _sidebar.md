@@ -36,6 +36,7 @@
             - [● **GEN_RM**: Room Surface Finish Area](/_scripts/_general/ROOMS/GEN_RM_RoomSurfaceFinishArea.md)
             - [● **GEN_RM**: Slightly Off Axis Fixer](/_scripts/_general/ROOMS/GEN_RM_SlightlyoffAxisFixer.md)
         - WALLS
+            - [● **GEN_WA**: Create Wall Opening](/_scripts/_general/WALLS/GEN_WA_CreateWallOpening.md)
             - [● **GEN_WA**: Wall Protection Corner by Edge](/_scripts/_general/WALLS/GEN_WA_WallProtection_Corner_ByEdge.md)
             - [● **GEN_WA**: Wall Slightly Off Axis Fixer](/_scripts/_general/WALLS/GEN_WA_SlightlyoffAxisFixer.md)
         - WARNINGS
