@@ -1,4 +1,4 @@
-# CHANGELOG [275_WA : ISOLATE WALLS]
+# CHANGELOG [275_WA: DIMENSION ISOLATE WALLS : HORIZONTAL & VERTICAL]
 All Notable Changes to the Script will be Documented in This File.
 
 | Comment | Description |
@@ -11,10 +11,10 @@ All Notable Changes to the Script will be Documented in This File.
 
 | File Path | 
 | :-- |
-| 04_Resources\05_Research & Development\01_Dynamo\01_Scripts\02_PROJECT\275_VESTEDA\AREA |
+| 04_Resources\05_Research & Development\01_Dynamo\01_Scripts\02_PROJECT\275_VESTEDA\WALLS |
 ------------------------------------------------------------------
 
-### [1.0.0] - 2023-05-12
+### [1.0.0] - 2023-07-12
 ##### CREATED
 - Script Created by Cathrine Macabuhay
 

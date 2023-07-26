@@ -92,13 +92,15 @@
             - [● **PDP_WA**: WallProtection_Horizontal_Cut&Offset](/_scripts/_project/272_PDP/WALLS/PDP_WA_WallProtection_Horizontal_Cut%20%26%20Offset.md)
 
         - 275_VESTEDA
-            - [● **275_AE**: Automate Area Plan Views](/_scripts/_project/275_VESTEDA/AREA/AE_AUTOMATE%20AREA%20PLAN%20VIEWS.md)
-            - [● **275_AE**: NVO Area Plans](/_scripts/_project/275_VESTEDA/AREA/AE_NVO.md)
-            - [● **275_AE**: BVO Area Plans](/_scripts/_project/275_VESTEDA/AREA/AE_BVO.md)
-            - [● **275_AE**: GO Area Plans](/_scripts/_project/275_VESTEDA/AREA/AE_GO.md)
-            - [● **275_WA**: Isolate Walls](/_scripts/_project/275_VESTEDA/WALLS/275_WA_IsolateWalls.md)
-            - [● **275_WA**: Horizontal](/_scripts/_project/275_VESTEDA/WALLS/275_WA_IsolateWalls.md)
-            - [● **275_WA**: Isolate Walls](/_scripts/_project/275_VESTEDA/WALLS/275_WA_IsolateWalls.md)
+            - AREA
+                - [● **275_AE**: Automate Area Plan Views](/_scripts/_project/275_VESTEDA/AREA/AE_AUTOMATE%20AREA%20PLAN%20VIEWS.md)
+                - [● **275_AE**: NVO Area Plans](/_scripts/_project/275_VESTEDA/AREA/AE_NVO.md)
+                - [● **275_AE**: BVO Area Plans](/_scripts/_project/275_VESTEDA/AREA/AE_BVO.md)
+                - [● **275_AE**: GO Area Plans](/_scripts/_project/275_VESTEDA/AREA/AE_GO.md)
+            - WALLS
+                - [● **275_WA**: Isolate Walls : Horizontal & Vertical](/_scripts/_project/275_VESTEDA/WALLS/275_WA_Dim_IsolateWalls.md)
+                - [● **275_WA**: Horizontal Wall Reference Dimensions](/_scripts/_project/275_VESTEDA/WALLS/275_WA_Dim_Horizontal.md)
+                - [● **275_WA**: Vertical Wall Reference Dimensions](/_scripts/_project/275_VESTEDA/WALLS/275_WA_Dim_Vertical.md)
 
         - 263_VMC
             - 3D

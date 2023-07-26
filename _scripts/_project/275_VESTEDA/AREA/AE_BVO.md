@@ -21,7 +21,7 @@
 ------------------------------------------------------------
 > #### SCRIPT: 
 
-<img src="/_scripts/_project/275_VESTEDA/AREA/images/275_AE_BVO.png">
+<img src="./_scripts/_project/275_VESTEDA/AREA/images/275_AE_BVO.png">
 
 
 ------------------------------------------------------------
@@ -29,7 +29,7 @@
 > #### DEMO: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_project/275_VESTEDA/AREA/demo/275_AE_BVO.mp4" type="video/mp4">
+ <source src="./_scripts/_project/275_VESTEDA/AREA/demo/275_AE_BVO.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

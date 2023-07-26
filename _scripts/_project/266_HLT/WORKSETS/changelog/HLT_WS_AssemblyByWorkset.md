@@ -1,4 +1,4 @@
-# CHANGELOG [HLT_3D : GENERATE VIEWS FROM SECTION BOX]
+# CHANGELOG [HLT_WS : ASSEMBLY BY WORKSETS]
 All Notable Changes to the Script will be Documented in This File.
 
 | Comment | Description |
@@ -11,9 +11,9 @@ All Notable Changes to the Script will be Documented in This File.
 
 | File Path | 
 | :-- |
-| 04_Resources\05_Research & Development\01_Dynamo\01_Scripts\02_PROJECT\266_HILTI\3D |
+| 04_Resources\05_Research & Development\01_Dynamo\01_Scripts\02_PROJECT\266_HILTI\WS |
 ------------------------------------------------------------------
 
-### [1.0.0] - 2022-09-08
+### [1.0.0] - 2023-07-05
 ##### CREATED
 - Script Created
