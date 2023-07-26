@@ -21,3 +21,15 @@ Script Update Version Control
 | Versions should be linkable | **Created** : for new scripts |
 | The latest version comes first | **Removed** : for now removed features |
 | The release date of each version is displayed | **Fixed** : for any bug fixes |
+
+----------------------------------------------------------
+
+> ## **COMMIT MESSAGES**
+Github Docsify Backup
+
+- Added +File Name
+- Modified +File Name
+- Updated +File Name
+- Delete +File Name
+
+----------------------------------------------------------
