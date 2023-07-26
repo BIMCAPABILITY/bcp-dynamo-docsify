@@ -20,14 +20,14 @@
 ----------------------------------------------------------------
 
 > #### SCRIPT: 
-<img src="/_scripts/_general/3D/images/GEN_3D_GenerateSectionBox.png">
+<img src="./_scripts/_general/3D/images/GEN_3D_GenerateSectionBox.png">
 
 ------------------------------------------------------------------------------
 
 > #### **DEMO**: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_general/3D/demo/GEN_3D_GenerateSectionBox.mp4" type="video/mp4">
+ <source src="./_scripts/_general/3D/demo/GEN_3D_GenerateSectionBox.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

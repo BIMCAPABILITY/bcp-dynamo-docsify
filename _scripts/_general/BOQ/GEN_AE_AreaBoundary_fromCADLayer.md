@@ -21,13 +21,13 @@
 ------------------------------------------------------------
 > #### SCRIPT: 
 
-<img src="/_scripts/_general/BOQ/images/GEN_BOQ_ElementLocationByCategory.png>
+<img src="./_scripts/_general/BOQ/images/GEN_BOQ_ElementLocationByCategory.png>
 ------------------------------------------------------------
 
 > #### DEMO: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_general/BOQ/demo/GEN_BOQ_ElementLocationByCategory.mp4" type="video/mp4">
+ <source src="./_scripts/_general/BOQ/demo/GEN_BOQ_ElementLocationByCategory.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

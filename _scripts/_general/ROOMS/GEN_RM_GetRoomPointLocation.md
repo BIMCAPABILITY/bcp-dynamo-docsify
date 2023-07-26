@@ -19,13 +19,13 @@
 ------------------------------------------------------------------
 > #### **SCRIPT** 
 
-<img src="/_scripts/_general/ROOMS/images/GEN_RM_GetRoomPointLocation.png">
+<img src="./_scripts/_general/ROOMS/images/GEN_RM_GetRoomPointLocation.png">
 
 ------------------------------------------------------------------
 
 > #### DEMO: 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_general/ROOMS/demo/GEN_RM_GetRoomPointLocation.mp4" type="video/mp4">
+ <source src="./_scripts/_general/ROOMS/demo/GEN_RM_GetRoomPointLocation.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS:

@@ -21,13 +21,13 @@
 ------------------------------------------------------------
 > #### SCRIPT: 
 
-<img src="/_scripts/_general/AREA/images/GEN_AE_AreaSepLinefromFloor.png">
+<img src="./_scripts/_general/AREA/images/GEN_AE_AreaSepLinefromFloor.png">
 ------------------------------------------------------------
 
 > #### DEMO: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_general/AREA/GEN_AE_AreaSepLinefromFloor.md" type="video/mp4">
+ <source src="./_scripts/_general/AREA/GEN_AE_AreaSepLinefromFloor.md" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

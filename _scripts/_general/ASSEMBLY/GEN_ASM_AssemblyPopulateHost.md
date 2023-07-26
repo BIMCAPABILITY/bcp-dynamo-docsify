@@ -20,7 +20,7 @@
 ----------------------------------------------------------------
 
 > #### SCRIPT:
-<img src="/_scripts/_general/ASSEMBLY/images/GEN_ASM_AssemblyPopulateHost.png">
+<img src="./_scripts/_general/ASSEMBLY/images/GEN_ASM_AssemblyPopulateHost.png">
 
 
 
@@ -28,7 +28,7 @@
 > #### **DEMO**: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_general/ASSEMBLY/demo/GEN_ASM_AssemblyPopulateHost.mp4" type="video/mp4">
+ <source src="./_scripts/_general/ASSEMBLY/demo/GEN_ASM_AssemblyPopulateHost.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

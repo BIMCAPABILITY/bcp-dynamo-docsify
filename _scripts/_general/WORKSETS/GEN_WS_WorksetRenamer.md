@@ -18,7 +18,7 @@
 
 ----------------------------------------------------------------
 > #### SCRIPT: 
-<img src="/_scripts/_general/WORKSETS/images/GEN_WS_WorksetRenamer.png">
+<img src="./_scripts/_general/WORKSETS/images/GEN_WS_WorksetRenamer.png">
 
 
 ------------------------------------------------------------------------------
@@ -26,7 +26,7 @@
 > #### **DEMO**: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_general/WORKSETS/demo/GEN_WS_WorksetRenamer.mp4" type="video/mp4">
+ <source src="./_scripts/_general/WORKSETS/demo/GEN_WS_WorksetRenamer.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

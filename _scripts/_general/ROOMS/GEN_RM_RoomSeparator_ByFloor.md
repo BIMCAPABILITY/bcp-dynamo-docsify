@@ -20,14 +20,14 @@
 ------------------------------------------------------------------
 > #### **SCRIPT** 
 
-<img src="/_scripts/_general/ROOMS/images/GEN_RM_SeparatorbyFloor.png">
+<img src="./_scripts/_general/ROOMS/images/GEN_RM_SeparatorbyFloor.png">
 
 ------------------------------------------------------------------
 
 > #### DEMO: 
 > #### DATA SHAPES UI:
 <video width="1280" height="720" controls>
- <source src="/_scripts/_general/ROOMS/demo/GEN_RM_SeparatorbyFloor01.mp4" type="video/mp4">
+ <source src="./_scripts/_general/ROOMS/demo/GEN_RM_SeparatorbyFloor01.mp4" type="video/mp4">
 </video>
 <video width="1280" height="720" controls>
  <source src="/_scripts/_general/ROOMS/demo/GEN_RM_SeparatorbyFloor02.mp4" type="video/mp4">

@@ -18,14 +18,14 @@
 
 ----------------------------------------------------------------
 > #### SCRIPT: 
-<img src="/_scripts/_general/WORKSETS/images/GEN_WS_WorksetByLevel.png">
+<img src="./_scripts/_general/WORKSETS/images/GEN_WS_WorksetByLevel.png">
 
 
 ------------------------------------------------------------------------------
 
 > #### DEMO: 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_general/WORKSETS/demo/GEN_WS_WorksetByLevel.mp4" type="video/mp4">
+ <source src="./_scripts/_general/WORKSETS/demo/GEN_WS_WorksetByLevel.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

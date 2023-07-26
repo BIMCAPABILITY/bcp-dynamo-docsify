@@ -18,13 +18,13 @@
 ------------------------------------------------------------
 > #### SCRIPT: 
 
-<img src="/_scripts/_general/WALLS/images/GEN_WA_IsolateWallByHeight.png>
+<img src="./_scripts/_general/WALLS/images/GEN_WA_IsolateWallByHeight.png>
 ------------------------------------------------------------
 
 > #### DEMO: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_general/WALLS/demo/GEN_WA_IsolateWallByHeight.mp4" type="video/mp4">
+ <source src="./_scripts/_general/WALLS/demo/GEN_WA_IsolateWallByHeight.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 
