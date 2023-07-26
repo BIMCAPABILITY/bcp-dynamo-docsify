@@ -6,6 +6,7 @@
     - **BY CATEGORY**
         - 3D
             - [● **GEN_3D**: Clash Isolate (Data Shapes UI | Dynamo Player)](/_scripts/_general/3D/GEN_3D_ClashIsolate.md)
+            - [● **GEN_3D**: Floor Plan and Section View From Section Box](/_scripts/_general/3D/GEN_3D_FPandSEC_SectionBox.md)
             - [● **GEN_3D**: Isolate Elements by Warnings](/_scripts/_general/3D/GEN_3D_IsolateByWarnings.md)
             - [● **GEN_3D**: Generate 3D and Plan Views From Section Box](/_scripts/_general/3D/GEN_3D_GenerateSectionBox.md)
             - [● **GEN_3D**: HIGHLIGHTS ASSEMBLY THAT HAS CLASHES WITH LINKED ELEMENTS](/_scripts/_general/3D/GEN_3D_GeometryClashesInViewByAssembly.md)
