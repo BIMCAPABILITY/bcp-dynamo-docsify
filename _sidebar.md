@@ -38,6 +38,7 @@
         - WALLS
             - [● **GEN_WA**: Create Wall Opening](/_scripts/_general/WALLS/GEN_WA_CreateWallOpening.md)
             - [● **GEN_WA**: Horizontal Wall Protection](/_scripts/_general/WALLS/GEN_WA_HorizontalWallProtection.md)
+            - [● **GEN_WA**: Isolate Wall by Height](/_scripts/_general/WALLS/GEN_WA_IsolateWallByHeight.md)
             - [● **GEN_WA**: Wall Protection Corner by Edge](/_scripts/_general/WALLS/GEN_WA_WallProtection_Corner_ByEdge.md)
             - [● **GEN_WA**: Wall Slightly Off Axis Fixer](/_scripts/_general/WALLS/GEN_WA_SlightlyoffAxisFixer.md)
         - WARNINGS
