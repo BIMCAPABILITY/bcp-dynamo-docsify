@@ -13,7 +13,7 @@
 
 | File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location | 
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--: |
-| GEN_AE |  | Universo_BIM v19.10.11 | | | Revit 2021.1 | Abjeet Singh | | GEN_WA_CreateWallOpening |
+| GEN_WA |  | Universo_BIM v19.10.11 | | | Revit 2021.1 | Abjeet Singh | | GEN_WA_CreateWallOpening |
 |        |  | Synthesize toolkit v12.7.5 | | |              |              | | (https://bimcapcom.sharepoint.com/:u:/s/BCP-Main/Ec77nWJyyqlPjUC2aEoda5MB88br2LMyKn_CLiesCnw7hg?e=7KEcNF) |
 |        |  | | | |              |              | | |
 |        |  | | | |
@@ -27,7 +27,7 @@
 > #### DEMO: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_general/WALLS/demo/GEN_WA_CreateWallOpening V1.0.0.mp4" type="video/mp4">
+ <source src="/_scripts/_general/WALLS/demo/GEN_WA_CreateWallOpening.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 
