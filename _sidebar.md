@@ -21,7 +21,7 @@
         - BOQ
             - [● **GEN_BOQ**: Get Element Location By Rooms](/_scripts/_general/BOQ/GEN_BOQ_ElementLocationByCategory.md)            
         - FLOORS
-            - [● **GEN_FLR**: Floor Sketch is Slightly Off Axis Fixer](_scripts/_general/FLOOR/GEN_FLR_SightlyoffAxisFixer.md)
+            - [● **GEN_FLR**: Floor Sketch is Slightly Off Axis Fixer](/_scripts/_general/FLOOR/GEN_FLR_SightlyoffAxisFixer.md)
         - LINES
             - [● **GEN_LI**: View Line Checker](/_scripts/_general/LINES/GEN_LI_ViewLine.md)
         - MATERIALS
