@@ -6,6 +6,7 @@
     - **BY CATEGORY**
         - 3D
             - [● **GEN_3D**: Clash Isolate (Data Shapes UI | Dynamo Player)](/_scripts/_general/3D/GEN_3D_ClashIsolate.md)
+            - [● **GEN_3D**: Floor Plan and Section View From Section Box](/_scripts/_general/3D/GEN_3D_FPandSEC_SectionBox.md)
             - [● **GEN_3D**: Isolate Elements by Warnings](/_scripts/_general/3D/GEN_3D_IsolateByWarnings.md)
             - [● **GEN_3D**: Generate 3D and Plan Views From Section Box](/_scripts/_general/3D/GEN_3D_GenerateSectionBox.md)
             - [● **GEN_3D**: HIGHLIGHTS ASSEMBLY THAT HAS CLASHES WITH LINKED ELEMENTS](/_scripts/_general/3D/GEN_3D_GeometryClashesInViewByAssembly.md)
@@ -18,7 +19,7 @@
             - [● **GEN_ASM**: POPULATE BY ASSEMBLY TYPE](/_scripts/_general/ASSEMBLY/GEN_ASM_AssemblyPopulateHost.md)
             - [● **GEN_ASM**: HIGHLIGHTS ASSEMBLY THAT DOESN'T HAVE A HOST OR WORKPLANE](/_scripts/_general/ASSEMBLY/GEN_ASM_MembersHasNoWorkPlane.md) 
         - BOQ
-            - [● **GEN_BOQ**: Get Element Location By Rooms](/_scripts/_general/BOQ/GEN_AE_AreaBoundary_fromCADLayer.md)            
+            - [● **GEN_BOQ**: Get Element Location By Rooms](/_scripts/_general/BOQ/GEN_BOQ_ElementLocationByCategory.md)            
         - FLOORS
             - [● **GEN_FLR**: Floor Sketch is Slightly Off Axis Fixer](_scripts/_general/FLOOR/GEN_FLR_SightlyoffAxisFixer.md)
         - LINES
@@ -36,6 +37,9 @@
             - [● **GEN_RM**: Room Surface Finish Area](/_scripts/_general/ROOMS/GEN_RM_RoomSurfaceFinishArea.md)
             - [● **GEN_RM**: Slightly Off Axis Fixer](/_scripts/_general/ROOMS/GEN_RM_SlightlyoffAxisFixer.md)
         - WALLS
+            - [● **GEN_WA**: Create Wall Opening](/_scripts/_general/WALLS/GEN_WA_CreateWallOpening.md)
+            - [● **GEN_WA**: Horizontal Wall Protection](/_scripts/_general/WALLS/GEN_WA_HorizontalWallProtection.md)
+            - [● **GEN_WA**: Isolate Wall by Height](/_scripts/_general/WALLS/GEN_WA_IsolateWallByHeight.md)
             - [● **GEN_WA**: Wall Protection Corner by Edge](/_scripts/_general/WALLS/GEN_WA_WallProtection_Corner_ByEdge.md)
             - [● **GEN_WA**: Wall Slightly Off Axis Fixer](/_scripts/_general/WALLS/GEN_WA_SlightlyoffAxisFixer.md)
         - WARNINGS
@@ -44,6 +48,9 @@
             - 1.ASSIGN
                 - [● **GEN_WS**: Assign Linktype Workset](/_scripts/_general/WORKSETS/1_ASSIGN/GEN_WS_AssignLinktypeWorkset.md)
             - [● **GEN_WS**: Create By Links](/_scripts/_general/WORKSETS/GEN_WS_CreateByLinks.md)
+            - [● **GEN_WS**: Workset By Level](/_scripts/_general/WORKSETS/GEN_WS_WorksetByLevel.md)
+            - [● **GEN_WS**: Workset Renamer](/_scripts/_general/WORKSETS/GEN_WS_WorksetRenamer.md)
+
     - **BY PROJECT**
 
         - 266_HILTI

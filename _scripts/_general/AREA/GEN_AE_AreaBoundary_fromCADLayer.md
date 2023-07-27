@@ -21,13 +21,13 @@
 ------------------------------------------------------------
 > #### SCRIPT: 
 
-<img src="/_scripts/_general/AREA/images/GEN_AE_AreaBoundary_fromCADLayer.png">
+<img src="./_scripts/_general/AREA/images/GEN_AE_AreaBoundary_fromCADLayer.png">
 ------------------------------------------------------------
 
 > #### DEMO: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_general/AREA/demo/GEN_AE_AreaBoundary_fromCADLayer.mp4" type="video/mp4">
+ <source src="./_scripts/_general/AREA/demo/GEN_AE_AreaBoundary_fromCADLayer.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

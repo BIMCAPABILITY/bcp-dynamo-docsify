@@ -20,13 +20,13 @@
 ------------------------------------------------------------------
 > #### **SCRIPT** 
 
-<img src="/_scripts/_general/WARNINGS/images/GEN_WAR_ModelWarnings.png">
+<img src="./_scripts/_general/WARNINGS/images/GEN_WAR_ModelWarnings.png">
 
 ------------------------------------------------------------------
 
 > #### DEMO: 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_general/WARNINGS/demo/GENModelWarnings.mp4" type="video/mp4">
+ <source src="./_scripts/_general/WARNINGS/demo/GENModelWarnings.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

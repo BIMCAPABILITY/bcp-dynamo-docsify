@@ -20,7 +20,7 @@
 ----------------------------------------------------------------
 
 > #### SCRIPT:
-<img src="/_scripts/_general/ASSEMBLY/images/GEN_ASM_MembersHasNoWorkPlane.png">
+<img src="./_scripts/_general/ASSEMBLY/images/GEN_ASM_MembersHasNoWorkPlane.png">
 
 
 
@@ -28,7 +28,7 @@
 > #### **DEMO**: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_general/ASSEMBLY/GEN_ASM_MembersHasNoWorkPlane.md" type="video/mp4">
+ <source src="./_scripts/_general/ASSEMBLY/GEN_ASM_MembersHasNoWorkPlane.md" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

@@ -21,13 +21,13 @@
 ------------------------------------------------------------
 > #### SCRIPT: 
 
-<img src="/_scripts/_general/AREA/images/GEN_AE_GetAreaData_fromLinkedRooms.png">
+<img src="./_scripts/_general/AREA/images/GEN_AE_GetAreaData_fromLinkedRooms.png">
 ------------------------------------------------------------
 
 > #### DEMO: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_general/AREA/demo/GEN_AE_GetAreaData_fromLinkedRooms.mp4" type="video/mp4">
+ <source src="./_scripts/_general/AREA/demo/GEN_AE_GetAreaData_fromLinkedRooms.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

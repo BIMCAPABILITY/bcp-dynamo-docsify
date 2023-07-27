@@ -17,7 +17,7 @@
 
 ----------------------------------------------------------------
 > #### SCRIPT: 
-<img src="/_scripts/_general/MATERIALS/images/GEN_MAT_RemoveMaterialByFamilyType.png">
+<img src="./_scripts/_general/MATERIALS/images/GEN_MAT_RemoveMaterialByFamilyType.png">
 
 
 ------------------------------------------------------------------------------
@@ -25,7 +25,7 @@
 > #### **DEMO**: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_general/MATERIALS/demo/GEN_MAT_RemoveMaterialByFamilyType.mp4" type="video/mp4">
+ <source src="./_scripts/_general/MATERIALS/demo/GEN_MAT_RemoveMaterialByFamilyType.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

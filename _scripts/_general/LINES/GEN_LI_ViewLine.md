@@ -20,13 +20,13 @@
 
 > #### **SCRIPT** 
 
-<img src="/_scripts/_general/LINES/images/GEN_LI_ViewLine.png">
+<img src="./_scripts/_general/LINES/images/GEN_LI_ViewLine.png">
 
 ------------------------------------------------------------------------------
 
 > #### DEMO: 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_general/LINES/demo/GEN_LI_ViewLines.mp4" type="video/mp4">
+ <source src="./_scripts/_general/LINES/demo/GEN_LI_ViewLines.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS:

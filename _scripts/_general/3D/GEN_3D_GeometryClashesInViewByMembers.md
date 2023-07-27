@@ -20,7 +20,7 @@
 ----------------------------------------------------------------
 
 > #### SCRIPT:
-<img src="/_scripts/_general/3D/images/GEN_3D_GeometryClashesInViewByMembers.png">
+<img src="./_scripts/_general/3D/images/GEN_3D_GeometryClashesInViewByMembers.png">
 
 
 
@@ -28,7 +28,7 @@
 > #### **DEMO**: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_general/3D/demo/GEN_3D_GeometryClashesInViewByAssemblyMembers.mp4" type="video/mp4">
+ <source src="./_scripts/_general/3D/demo/GEN_3D_GeometryClashesInViewByAssemblyMembers.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 
