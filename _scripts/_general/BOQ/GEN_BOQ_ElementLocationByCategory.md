@@ -20,8 +20,7 @@
 |        |  |  | | |
 ------------------------------------------------------------
 > #### SCRIPT: 
-
-<img src="./_scripts/_general/BOQ/images/GEN_BOQ_ElementLocationByCategory.png>
+<img src="./_scripts/_general/BOQ/images/GEN_BOQ_ElementLocationByCategory.png">
 ------------------------------------------------------------
 
 > #### DEMO: 
