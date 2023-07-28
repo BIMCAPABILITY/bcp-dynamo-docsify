@@ -19,7 +19,6 @@
 
 ----------------------------------------------------------------
 > #### SCRIPT: 
-<details>
 <img src="./_scripts/_project/279_PLESMANLAAN/WORKSET/images/PMN_WS_SetWSbyCategory_Elec.png">
 </details>
 
