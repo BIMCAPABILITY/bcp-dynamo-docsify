@@ -97,7 +97,11 @@
             - [● **PDP_WA**: WallProtection_Horizontal_Placement](/_scripts/_project/272_PDP/WALLS/PDP_WA_WallProtection_Hor_Placement.md)
             - [● **PDP_WA**: Place Wall Protection_Horizontal_OffsetNoElement](/_scripts/_project/272_PDP/WALLS/PDP_WA_PlaceWallProtection_Hor_OffsetNoElement.md)
             - [● **PDP_WA**: WallProtection_Horizontal_Cut&Offset](/_scripts/_project/272_PDP/WALLS/PDP_WA_WallProtection_Horizontal_Cut%20%26%20Offset.md)
-
+        - 279_PMN
+            - WORKSETS
+                - [● **PMN_WS**: Workset By Discipline [Electrical]](/_scripts/_project/279_PLESMANLAAN/WORKSET/PMN_WS_SetWSbyCategory_Elec.md)
+                - [● **PMN_WS**: Workset By Discipline [Mechanical]](/_scripts/_project/279_PLESMANLAAN/WORKSET/PMN_WS_SetWSbyCategory_Mech.md)
+                - [● **PMN_WS**: Workset By Discipline [Plumbing]](/_scripts/_project/279_PLESMANLAAN/WORKSET/PMN_WS_SetWSbyCategory_PLB.md)
         - 275_VESTEDA
             - AREA
                 - [● **275_AE**: Automate Area Plan Views](/_scripts/_project/275_VESTEDA/AREA/AE_AUTOMATE%20AREA%20PLAN%20VIEWS.md)
