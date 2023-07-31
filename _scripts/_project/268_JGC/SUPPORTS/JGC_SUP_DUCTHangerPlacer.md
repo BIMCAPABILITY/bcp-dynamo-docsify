@@ -20,13 +20,13 @@
 
 ----------------------------------------------------------------
 > #### SCRIPT: 
-<img src="/_scripts/_project/268_JGC/SUPPORTS/images/JGC_SUP_DUCTHangerPlacer.png">
+<img src="./_scripts/_project/268_JGC/SUPPORTS/images/JGC_SUP_DUCTHangerPlacer.png">
 ----------------------------------------------------------------
 
 > #### DEMO: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_project/268_JGC/SUPPORTS/demo/JGC_SUP_DUCTHangerPlacer.mp4" type="video/mp4">
+ <source src="./_scripts/_project/268_JGC/SUPPORTS/demo/JGC_SUP_DUCTHangerPlacer.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 
