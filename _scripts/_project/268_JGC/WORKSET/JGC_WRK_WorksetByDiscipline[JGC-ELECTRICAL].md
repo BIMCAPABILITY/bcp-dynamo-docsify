@@ -18,9 +18,7 @@
 
 ----------------------------------------------------------------
 > #### SCRIPT: 
-<details>
 <img src="./_scripts/_project/268_JGC/WORKSET/images/JGC_WRK_WorksetByDiscipline[JGC-ELECTRICAL].png">
-</details>
 
 > #### DEMO: 
 
