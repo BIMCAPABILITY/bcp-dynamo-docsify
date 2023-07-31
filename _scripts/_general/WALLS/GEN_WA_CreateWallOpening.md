@@ -21,7 +21,7 @@
 ------------------------------------------------------------
 > #### SCRIPT: 
 
-<img src="./_scripts/_general/WALLS/images/GEN_WA_CreateWallOpening.png>
+<img src="./_scripts/_general/WALLS/images/GEN_WA_CreateWallOpening.png">
 ------------------------------------------------------------
 
 > #### DEMO: 

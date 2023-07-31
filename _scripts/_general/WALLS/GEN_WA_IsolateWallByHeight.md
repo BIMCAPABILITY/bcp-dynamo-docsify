@@ -18,7 +18,7 @@
 ------------------------------------------------------------
 > #### SCRIPT: 
 
-<img src="./_scripts/_general/WALLS/images/GEN_WA_IsolateWallByHeight.png>
+<img src="./_scripts/_general/WALLS/images/GEN_WA_IsolateWallByHeight.png">
 ------------------------------------------------------------
 
 > #### DEMO: 
