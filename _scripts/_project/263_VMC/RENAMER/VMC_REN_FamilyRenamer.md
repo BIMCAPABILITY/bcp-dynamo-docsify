@@ -20,11 +20,7 @@
 |         |  | Orchid 206.3.0.8161|
 ----------------------------------------------------------------
 > #### SCRIPT: 
-
-<details>
-<summary>SCRIPT</summary>
 <img src="./_scripts/_project/263_VMC/RENAMER/images/VMC_REN_FamilyRenamer.png">
-</details>
 
 ------------------------------------------------------------------------------
 

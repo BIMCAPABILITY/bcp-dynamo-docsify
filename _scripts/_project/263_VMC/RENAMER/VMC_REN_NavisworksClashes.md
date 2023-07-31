@@ -18,16 +18,12 @@
 
 ----------------------------------------------------------------
 > #### SCRIPT: 
-<details>
-<summary>SCRIPT</summary>
-<img src="/_scripts/_project/263_VMC/RENAMER/images/VMC_REN_NavisworksClashes.png">
-</details>
-
+<img src="./_scripts/_project/263_VMC/RENAMER/images/VMC_REN_NavisworksClashes.png">
 ------------------------------------------------------------------------------
 
 > #### DEMO: 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_project/263_VMC/RENAMER/demo/VMC_REN_NavisworksClashes.mp4" type="video/mp4">
+ <source src="./_scripts/_project/263_VMC/RENAMER/demo/VMC_REN_NavisworksClashes.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 
