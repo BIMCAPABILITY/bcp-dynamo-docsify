@@ -20,13 +20,13 @@
 ----------------------------------------------------------------
 
 > #### SCRIPT:
-<img src="/_scripts/_project/266_HLT/EXCEL/images/HLT_EXL_ExportScheduleChecklist.png">
+<img src="./_scripts/_project/266_HLT/EXCEL/images/HLT_EXL_ExportScheduleChecklist.png">
 
 ------------------------------------------------------------------
 > #### **DEMO**: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_project/266_HLT/EXCEL/demo/HLT_3D_ExportScheduleChecklist.mp4" type="video/mp4">
+ <source src="./_scripts/_project/266_HLT/EXCEL/demo/HLT_3D_ExportScheduleChecklist.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

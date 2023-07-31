@@ -20,7 +20,7 @@
 ----------------------------------------------------------------
 
 > #### SCRIPT:
-<img src="/_scripts/_project/266_HLT/3D/images/HLT_3D_GeometryClashesInViewByAssembly.png">
+<img src="./_scripts/_project/266_HLT/3D/images/HLT_3D_GeometryClashesInViewByAssembly.png">
 
 
 
@@ -28,7 +28,7 @@
 > #### **DEMO**: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_project/266_HLT/3D/demo/HLT_3D_GeometryClashesInViewByAssembly.mp4" type="video/mp4">
+ <source src="./_scripts/_project/266_HLT/3D/demo/HLT_3D_GeometryClashesInViewByAssembly.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 
