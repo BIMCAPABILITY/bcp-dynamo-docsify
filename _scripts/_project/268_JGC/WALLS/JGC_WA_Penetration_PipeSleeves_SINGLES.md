@@ -19,13 +19,13 @@
 
 ----------------------------------------------------------------
 > #### SCRIPT: 
-<img src="/_scripts/_project/272_PDP/WALLS/images/PDP_WA_PlaceWallProtection_Hor_OffsetNoElement.png">
+<img src="./_scripts/_project/272_PDP/WALLS/images/PDP_WA_PlaceWallProtection_Hor_OffsetNoElement.png">
 ----------------------------------------------------------------
 
 > #### DEMO: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_project/268_JGC/WALLS/demo/JGC_WallPenetration_PipeSleeves.mp4" type="video/mp4">
+ <source src="./_scripts/_project/268_JGC/WALLS/demo/JGC_WallPenetration_PipeSleeves.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 
