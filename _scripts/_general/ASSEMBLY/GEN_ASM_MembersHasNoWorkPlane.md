@@ -28,7 +28,7 @@
 > #### **DEMO**: 
 
 <video width="1280" height="720" controls>
- <source src="./_scripts/_general/ASSEMBLY/GEN_ASM_MembersHasNoWorkPlane.md" type="video/mp4">
+ <source src="./_scripts/_general/ASSEMBLY/demo/GEN_ASM_MembersHasNoWorkPlane.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 
