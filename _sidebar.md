@@ -89,14 +89,15 @@
                 - [● **JGC_WRK**: Workset By Discipline [PLUMBING]](/_scripts/_project/268_JGC/WORKSET/JGC_WRK_WorksetByDiscipline%5BJGC-PLUMBING%5D.md)
 
         - 272_PDP
-            - [● **PDP_WA**: Comments](/_scripts/_project/272_PDP/WALLS/PDP_WA_Comments.md)
-            - [● **PDP_WA**: Filter Walls >3000mm](/_scripts/_project/272_PDP/WALLS/PDP_WA_Above.md)
-            - [● **PDP_WA**: Filter Walls <3000mm](/_scripts/_project/272_PDP/WALLS/PDP_WA_Below.md)
-            - [● **PDP_WA**: WallProtection_Corner_ByEdge_Placement](/_scripts/_project/272_PDP/WALLS/PDP_WA_WallProtection_Corner_ByEdge_Placement.md)
-            - [● **PDP_WA**: WallProtection_Corner_ByEdge_Rotation](/_scripts/_project/272_PDP/WALLS/PDP_WA_WallProtection_Corner_ByEdge_Rotation.md)
-            - [● **PDP_WA**: WallProtection_Horizontal_Placement](/_scripts/_project/272_PDP/WALLS/PDP_WA_WallProtection_Hor_Placement.md)
-            - [● **PDP_WA**: Place Wall Protection_Horizontal_OffsetNoElement](/_scripts/_project/272_PDP/WALLS/PDP_WA_PlaceWallProtection_Hor_OffsetNoElement.md)
-            - [● **PDP_WA**: WallProtection_Horizontal_Cut&Offset](/_scripts/_project/272_PDP/WALLS/PDP_WA_WallProtection_Horizontal_Cut%20%26%20Offset.md)
+            - WALLS
+                - [● **PDP_WA**: Comments](/_scripts/_project/272_PDP/WALLS/PDP_WA_Comments.md)
+                - [● **PDP_WA**: Filter Walls >3000mm](/_scripts/_project/272_PDP/WALLS/PDP_WA_Above.md)
+                - [● **PDP_WA**: Filter Walls <3000mm](/_scripts/_project/272_PDP/WALLS/PDP_WA_Below.md)
+                - [● **PDP_WA**: WallProtection_Corner_ByEdge_Placement](/_scripts/_project/272_PDP/WALLS/PDP_WA_WallProtection_Corner_ByEdge_Placement.md)
+                - [● **PDP_WA**: WallProtection_Corner_ByEdge_Rotation](/_scripts/_project/272_PDP/WALLS/PDP_WA_WallProtection_Corner_ByEdge_Rotation.md)
+                - [● **PDP_WA**: WallProtection_Horizontal_Placement](/_scripts/_project/272_PDP/WALLS/PDP_WA_WallProtection_Hor_Placement.md)
+                - [● **PDP_WA**: Place Wall Protection_Horizontal_OffsetNoElement](/_scripts/_project/272_PDP/WALLS/PDP_WA_PlaceWallProtection_Hor_OffsetNoElement.md)
+                - [● **PDP_WA**: WallProtection_Horizontal_Cut&Offset](/_scripts/_project/272_PDP/WALLS/PDP_WA_WallProtection_Horizontal_Cut%20%26%20Offset.md)
         - 279_PMN
             - WORKSETS
                 - [● **PMN_WS**: Workset By Discipline [Electrical]](/_scripts/_project/279_PLESMANLAAN/WORKSET/PMN_WS_SetWSbyCategory_Elec.md)
