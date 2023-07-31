@@ -25,17 +25,17 @@
 ------------------------------------------------------------
 > #### SCRIPT: 
 #### A) NVO
-<img src="/_scripts/_project/275_VESTEDA/AREA/images/275_AE_A_NVO.png">
+<img src="./_scripts/_project/275_VESTEDA/AREA/images/275_AE_A_NVO.png">
 
 #### B) BVO
-<img src="/_scripts/_project/275_VESTEDA/AREA/images/275_AE_B_NVO.png">
+<img src="./_scripts/_project/275_VESTEDA/AREA/images/275_AE_B_NVO.png">
 
 ------------------------------------------------------------
 
 > #### DEMO: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_project/275_VESTEDA/AREA/demo/275_AE_NVO.mp4" type="video/mp4">
+ <source src="./_scripts/_project/275_VESTEDA/AREA/demo/275_AE_NVO.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 
