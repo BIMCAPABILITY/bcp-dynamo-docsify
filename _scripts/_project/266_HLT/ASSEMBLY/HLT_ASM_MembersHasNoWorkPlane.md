@@ -20,7 +20,7 @@
 ----------------------------------------------------------------
 
 > #### SCRIPT:
-<img src="/_scripts/_project/266_HLT/ASSEMBLY/images/HLT_ASM_MembersHasNoWorkPlane.png">
+<img src="./_scripts/_project/266_HLT/ASSEMBLY/images/HLT_ASM_MembersHasNoWorkPlane.png">
 
 
 
@@ -28,7 +28,7 @@
 > #### **DEMO**: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_project/266_HLT/ASSEMBLY/demo/HLT_ASM_MembersHasNoWorkPlane.mp4" type="video/mp4">
+ <source src="./_scripts/_project/266_HLT/ASSEMBLY/demo/HLT_ASM_MembersHasNoWorkPlane.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 
