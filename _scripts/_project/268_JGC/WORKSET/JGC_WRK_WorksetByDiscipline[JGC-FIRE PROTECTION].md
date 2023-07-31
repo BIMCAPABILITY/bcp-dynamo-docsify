@@ -19,7 +19,7 @@
 ----------------------------------------------------------------
 > #### SCRIPT: 
 <details>
-<img src="./_scripts/_project/268_JGC/WORKSET/images/JGC_WRK_WorksetByDiscipline%5BJGC-FIRE%20PROTECTION%5D.png">
+<img src="./_scripts/_project/268_JGC/WORKSET/images/JGC_WRK_WorksetByDiscipline[JGC-FIRE PROTECTION].png">
 </details>
 
 

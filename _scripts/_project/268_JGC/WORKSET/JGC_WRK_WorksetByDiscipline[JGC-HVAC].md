@@ -18,7 +18,7 @@
 ----------------------------------------------------------------
 > #### SCRIPT: 
 <details>
-<img src="./_scripts/_project/268_JGC/WORKSET/images/JGC_WRK_WorksetByDiscipline%5BJGC-HVAC%5D.png">
+<img src="./_scripts/_project/268_JGC/WORKSET/images/JGC_WRK_WorksetByDiscipline[JGC-HVAC].png">
 </details>
 
 
