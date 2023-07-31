@@ -19,14 +19,14 @@
 
 ----------------------------------------------------------------
 > #### SCRIPT: 
-<img src="/_scripts/_project/263_VMC/SCHEDULES/images/VMC_SCH_SchedulesOutput.png">
+<img src="./_scripts/_project/263_VMC/SCHEDULES/images/VMC_SCH_SchedulesOutput.png">
 
 
 ------------------------------------------------------------------------------
 
 > #### DEMO: 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_project/263_VMC/SCHEDULES/demo/VMC_SCH_SchedulesOutput.mp4" type="video/mp4">
+ <source src="./_scripts/_project/263_VMC/SCHEDULES/demo/VMC_SCH_SchedulesOutput.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 
