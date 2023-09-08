@@ -19,7 +19,10 @@
             - [● **GEN_ASM**: POPULATE BY ASSEMBLY TYPE](/_scripts/_general/ASSEMBLY/GEN_ASM_AssemblyPopulateHost.md)
             - [● **GEN_ASM**: HIGHLIGHTS ASSEMBLY THAT DOESN'T HAVE A HOST OR WORKPLANE](/_scripts/_general/ASSEMBLY/GEN_ASM_MembersHasNoWorkPlane.md) 
         - BOQ
-            - [● **GEN_BOQ**: Get Element Location By Rooms](/_scripts/_general/BOQ/GEN_BOQ_ElementLocationByCategory.md)            
+            - [● **GEN_BOQ**: Get Element Location By Rooms](/_scripts/_general/BOQ/GEN_BOQ_ElementLocationByCategory.md)     
+        - CHECKER
+            - [● **GEN_CHECKER**: Generate Workshop Model Answer Keys](/_scripts/_general/CHECKER/GEN_WorkshopChecker_Answer.md)   
+            - [● **GEN_CHECKER**: Match References of Workshop Model Answer Keys](/_scripts/_general/CHECKER/GEN_WorkshopChecker_Checking.md)       
         - FLOORS
             - [● **GEN_FLR**: Floor Sketch is Slightly Off Axis Fixer](/_scripts/_general/FLOOR/GEN_FLR_SightlyoffAxisFixer.md)
         - LINES
