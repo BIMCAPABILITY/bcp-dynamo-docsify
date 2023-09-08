@@ -22,7 +22,7 @@
 
 ----------------------------------------------------------------
 > #### SCRIPT: 
-<img src="images/GEN_WorkshopChecker_Checking.png">
+<img src="./_scripts/_general/CHECKER/images/GEN_WorkshopChecker_Checking.png>
 
 
 ------------------------------------------------------------------------------
@@ -30,7 +30,7 @@
 > #### **DEMO**: 
 
 <video width="1280" height="720" controls>
- <source src="demo/GEN_WorkshopChecker_Checking.mp4" type="video/mp4">
+ <source src="./_scripts/_general/CHECKER/demo/GEN_WorkshopChecker_Checking.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 
