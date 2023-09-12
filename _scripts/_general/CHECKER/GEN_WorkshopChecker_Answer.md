@@ -22,7 +22,7 @@
 
 ----------------------------------------------------------------
 > #### SCRIPT: 
-<img src="./_scripts/_general/CHECKER/images/GEN_WorkshopChecker_Answer.png>
+<img src="./_scripts/_general/CHECKER/images/GEN_WorkshopChecker_Answer">
 
 
 ------------------------------------------------------------------------------
