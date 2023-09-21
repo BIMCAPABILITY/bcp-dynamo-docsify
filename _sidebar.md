@@ -112,6 +112,10 @@
                 - [● **275_AE**: NVO Area Plans](/_scripts/_project/275_VESTEDA/AREA/AE_NVO.md)
                 - [● **275_AE**: BVO Area Plans](/_scripts/_project/275_VESTEDA/AREA/AE_BVO.md)
                 - [● **275_AE**: GO Area Plans](/_scripts/_project/275_VESTEDA/AREA/AE_GO.md)
+            - EXPORT
+                - [● **275_EXP**: Print Sheets PDF and DWG](/_scripts/_project/275_VESTEDA/EXPORT/EXP_Print-PDF-DWG%20V1.0.0.md)
+            - SCHEDULES
+                - [● **275_SCH**: Export Schedule](/_scripts/_project/275_VESTEDA/SCHEDULES/SCH_ExportSchedule%20V1.0.0.md)
             - WALLS
                 - [● **275_WA**: Isolate Walls : Horizontal & Vertical](/_scripts/_project/275_VESTEDA/WALLS/275_WA_Dim_IsolateWalls.md)
                 - [● **275_WA**: Horizontal Wall Reference Dimensions](/_scripts/_project/275_VESTEDA/WALLS/275_WA_Dim_Horizontal.md)
