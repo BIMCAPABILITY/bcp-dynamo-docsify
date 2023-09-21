@@ -21,7 +21,7 @@
 ------------------------------------------------------------
 > #### SCRIPT: 
 
-<img src="/_scripts/_project/275_VESTEDA/EXPORT/images/275_EXP_Print-PDF-DWG V1.0.0.png">
+<img src="./_scripts/_project/275_VESTEDA/EXPORT/images/275_EXP_Print-PDF-DWG V1.0.0.png">
 
 
 ------------------------------------------------------------
@@ -29,7 +29,7 @@
 > #### DEMO: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_project/275_VESTEDA/EXPORT/demo/275_EXP_Print-PDF-DWG V1.0.0.mp4" type="video/mp4">
+ <source src="./_scripts/_project/275_VESTEDA/EXPORT/demo/275_EXP_Print-PDF-DWG V1.0.0.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 
