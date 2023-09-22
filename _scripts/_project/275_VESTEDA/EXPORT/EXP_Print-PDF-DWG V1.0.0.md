@@ -34,7 +34,6 @@
 
 #### INSTRUCTIONS: 
 - Please Install Packages First
-- Open Package Folder: 1_AE_BoundaryLines&AreaPlacements
 ----------------------------------------------------------------
 - *01: Open Dynamo Player*
 - *02: Edit Script Input*
