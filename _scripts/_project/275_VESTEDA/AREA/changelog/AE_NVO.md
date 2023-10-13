@@ -11,8 +11,12 @@ All Notable Changes to the Script will be Documented in This File.
 
 | File Path | 
 | :-- |
-| 04_Resources\05_Research & Development\01_Dynamo\01_Scripts\02_PROJECT\275_VESTEDA\AREA |
+| 06_R&D\01_Automation\01_Dynamo\01_Scripts\02_PROJECT\275_VESTEDA\AREA |
 ------------------------------------------------------------------
+### NVO [3.0.0] - 2023-09-26
+##### ADDED & CHANGED
+- Removed Area Boundary Generator & Added Area Tag
+
 ### B) NVO [1.0.1] - 2023-06-01
 ##### CHANGED
 - Minor Node Changes for Retrieving Room Name to Assign to Area Names

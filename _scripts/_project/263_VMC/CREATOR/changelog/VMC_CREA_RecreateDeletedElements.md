@@ -11,7 +11,7 @@ All Notable Changes to the Script will be Documented in This File.
 
 | File Path | 
 | :-- |
-|04_Resources\05_Research & Development\01_Dynamo\01_Scripts\02_PROJECT\263_VMC\CREATOR|
+|06_R&D\01_Automation\01_Dynamo\01_Scripts\02_PROJECT\263_VMC\CREATOR|
 ------------------------------------------------------------------
 ### [1.1.0] - 2023-05-17
 ##### CREATED

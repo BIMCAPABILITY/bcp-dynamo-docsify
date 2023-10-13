@@ -11,10 +11,10 @@ All Notable Changes to the Script will be Documented in This File.
 
 | File Path | 
 | :-- |
-| 04_Resources\05_Research & Development\01_Dynamo\01_Scripts\02_PROJECT\275_VESTEDA\AREA |
+| 06_R&D\01_Automation\01_Dynamo\01_Scripts\02_PROJECT\275_VESTEDA\AREA |
 ------------------------------------------------------------------
 
-### [1.0.0] - 20223-05-12
+### [1.0.0] - 2023-05-12
 ##### CREATED
 - Script Created by Cathrine Macabuhay
 

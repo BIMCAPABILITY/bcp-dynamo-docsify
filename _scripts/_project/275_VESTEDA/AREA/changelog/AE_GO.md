@@ -11,11 +11,11 @@ All Notable Changes to the Script will be Documented in This File.
 
 | File Path | 
 | :-- |
-| 04_Resources\05_Research & Development\01_Dynamo\01_Scripts\02_PROJECT\275_VESTEDA\AREA |
+|06_R&D\01_Automation\01_Dynamo\01_Scripts\02_PROJECT\275_VESTEDA\AREA |
 ------------------------------------------------------------------
-### B) GO [1.0.0] - 2023-06-01
-##### CREATED
-- Script Created by Cathrine Macabuhay
+### A) GO [3.0.0] - 2023-9-26
+##### ADDED & CHANGES
+- Area Boundary Removed, Added Area Tags.
 
 ### A) GO [2.0.0] - 2023-06-01
 ##### ADDED & CHANGED

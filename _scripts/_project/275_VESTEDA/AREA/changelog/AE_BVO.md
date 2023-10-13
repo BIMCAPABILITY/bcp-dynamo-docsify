@@ -11,8 +11,12 @@ All Notable Changes to the Script will be Documented in This File.
 
 | File Path | 
 | :-- |
-| 04_Resources\05_Research & Development\01_Dynamo\01_Scripts\02_PROJECT\275_VESTEDA\AREA |
+| 06_R&D\01_Automation\01_Dynamo\01_Scripts\02_PROJECT\275_VESTEDA\AREA |
 ------------------------------------------------------------------
+
+### [3.0.0] - 2023-09-26
+##### ADDED & CHANGED
+- Script Changed - Removed Area Boundary Generator. Added Area Tags
 
 ### [2.0.0] - 2023-06-01
 ##### ADDED & CHANGED
