@@ -13,6 +13,13 @@ All Notable Changes to the Script will be Documented in This File.
 | :-- |
 | 06_R&D\01_Automation\01_Dynamo\01_Scripts\02_PROJECT\275_VESTEDA\AREA |
 ------------------------------------------------------------------
+
+### NVO [3.1.0] - 2023-10-17
+##### ADDED & CHANGED
+- Modified By: Abjeet Singh
+- Added Organizing Category_2 & Unit Address.
+- Changed Approach to Area Boundary Lines to Produce Non-Segmented Lines.
+
 ### NVO [3.0.0] - 2023-09-26
 ##### ADDED & CHANGED
 - Removed Area Boundary Generator & Added Area Tag

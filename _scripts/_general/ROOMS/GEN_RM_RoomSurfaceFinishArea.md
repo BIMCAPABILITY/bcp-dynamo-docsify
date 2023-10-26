@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Packages | Revit Version | Author | Reviewed By | File Name & Location | 
+| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Packages | Revit Version | Author | Modified By | File Name & Location | 
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--: |
 | GEN_RM |  | Clockwork 1.x V1.34.0 |        | | Revit 2021.1 | Abjeet Singh | | GEN_RM_RoomSurfaceFinishArea V1.0.0 | 
 |        |  | archi-lab.net V2022.212.3131 |        | |              |              | | (https://bimcapcom.sharepoint.com/:u:/s/BCP-Main/EYe4ihRPcZNNqWHGvneOfMIB7mc16IaoDJ6_EsHlHQQ_-Q?e=Hlidv5) |

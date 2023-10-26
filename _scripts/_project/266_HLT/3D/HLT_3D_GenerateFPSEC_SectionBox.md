@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Packages | Revit Version | Author | Reviewed By | File Name & Location | 
+| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Packages | Revit Version | Author | Modified By | File Name & Location | 
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--: |
 | HLT_3D  | Orchid Installer zip File | GeniusLoci v.2023.2.21| | | Revit 2023 | Cathrine Macabuhay | | HLT_3D_GenerateFPSEC_SectionBox V1.0.0 |
 |           |  | Orchid v.216 | | | | | | (https://bimcapcom.sharepoint.com/:f:/s/BCP-Main/EoNVZ_h5Yq5BlfQrrpJH2D4BileeFoAighlYJFmuz-dLpA?e=3k9keO) |                 

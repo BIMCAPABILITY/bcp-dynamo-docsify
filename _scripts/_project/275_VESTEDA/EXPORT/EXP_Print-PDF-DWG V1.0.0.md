@@ -12,7 +12,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location | 
+| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location | 
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--: |
 | 275_EXP |  | archilab v.2023.213.26.1 | | | Revit 2023 | Abjeet Singh |  | 20230915_275_EXP_Print-PDF-DWG V1.0.0 |
 |         |  | GeniusLoci v.2023.7.13 |   | |            |              |  | (https://bimcapcom.sharepoint.com/:u:/s/BCP-Main/EeZFzDGL5FhOmB20ZAONfDgBFb4WgUt7oWCrc_Wc-01eIg?e=wbIFMT) |

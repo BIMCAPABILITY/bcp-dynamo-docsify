@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location | 
+| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location | 
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--: |
 | GEN_3D |  | Clockwork for Dynamo 1.x V1.34.0 | | | Revit 2021.1 | Abjeet Singh | | GEN_AE_AreaSepLinefromFloor V1.0.0 |
 |        |  | Genius Loci V2023.1.23           | | |              |              | | (https://bimcapcom.sharepoint.com/:u:/s/BCP-Main/EZwAUz3pFcBAo5XrnubsDfwBLRkCtZZTHBcPhlcUatbmvA?e=qfOcE5) |

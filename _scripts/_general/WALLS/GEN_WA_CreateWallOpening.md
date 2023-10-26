@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location | 
+| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location | 
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--: |
 | GEN_WA |  | Universo_BIM v19.10.11 | | | Revit 2021.1 | Abjeet Singh | | GEN_WA_CreateWallOpening |
 |        |  | Synthesize toolkit v12.7.5 | | |              |              | | (https://bimcapcom.sharepoint.com/:u:/s/BCP-Main/Ec77nWJyyqlPjUC2aEoda5MB88br2LMyKn_CLiesCnw7hg?e=7KEcNF) |

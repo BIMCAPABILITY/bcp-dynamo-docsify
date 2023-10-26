@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category| Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Packages | Revit Version | Author | Reviewed By | File Name & Location | 
+| File Category| Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Packages | Revit Version | Author | Modified By | File Name & Location | 
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--: |
 | HLT_WS |  | Clockwork v2.4.0 | | | Revit 2023 | Cathrine Macabuhay |  | HLT_WS_AssemblyByWorkset |
 |           |  | BumbleBee v.2021.25.3| | | | | | (https://bimcapcom.sharepoint.com/:f:/s/BCP-Main/EimlJc2T9Q1OuyriXhRUYY0Bynbr6wfdSikjhZbcGoAgRA?e=JfhIHO) |                 

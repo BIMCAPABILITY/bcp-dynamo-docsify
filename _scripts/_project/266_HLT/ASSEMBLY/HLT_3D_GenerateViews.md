@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category| Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Packages | Revit Version | Author | Reviewed By | File Name & Location | 
+| File Category| Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Packages | Revit Version | Author | Modified By | File Name & Location | 
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--: |
 | HILTI  |  | Rhythm 2020.9.8| | | Revit 2020 | Joed Abad | Cathrine Macabuhay | HLT_3D_Generate Views from Section Box V1.0.0 |
 |           |  | Orchid 230.1.0.7711 | | | | | | (https://bimcapcom.sharepoint.com/:f:/s/BCP-Main/EoNVZ_h5Yq5BlfQrrpJH2D4BileeFoAighlYJFmuz-dLpA?e=fPinld) |                 

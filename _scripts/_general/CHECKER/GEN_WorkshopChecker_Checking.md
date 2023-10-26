@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category| Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location
+| File Category| Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :--: | :--: 
 | GEN_CHECKER |  | Genius Loci v2023.2.2|  |  | Revit 2023 | Melvin Tuliao | | GEN_WorkshopChecker_Checking
 | | | DAta-Shapes v 2023.2.1| | | | | | (https://bimcapcom.sharepoint.com/:u:/s/BCP-Main/EdOUD9G78nFOnkS8GZ009lwB5E9c_QLuKnWZnTbOcEX90Q?e=UHQRhX)

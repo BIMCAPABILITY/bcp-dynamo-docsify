@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category| Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location |
+| File Category| Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location |
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :--: | :--:
 | GEN_WS | Excel Workbook | | | | Revit 2021.1 | Cathrine Macabuhay|  | GEN_WS_WorksetRenamer |
 | | | | | | | | | (https://bimcapcom.sharepoint.com/:u:/s/BCP-Main/EYZjRwtrUe1HgXwnidjtbg8Bz2_jiFfmGS55nc9e7pRnYQ?e=QQsjkm)

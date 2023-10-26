@@ -55,7 +55,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location | 
+| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location | 
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--: |
 | 275_AE |  | archi-lab.net 2023.213.1523 | | |Revit 2023 | Cathrine Macabuhay |  | 20231010_AE_Area Plan Generator V2.0.0 |
 |           |  | Synthesize v.12.7.5 |                 |                    | | | | (https://bimcapcom.sharepoint.com/:f:/s/BCP-Main/Ep-67CzejlBPhYoGnRRkW88BkADxZLWiKNiGEavmM2eZJg?e=FzE1KD) |

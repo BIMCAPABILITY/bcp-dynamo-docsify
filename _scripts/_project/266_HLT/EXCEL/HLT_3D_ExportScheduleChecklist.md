@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category| Associated Files | Dynamo Packages | Dynamo Player Packages | Custom Packages | Revit Version | Author | Reviewed By | File Name & Location | 
+| File Category| Associated Files | Dynamo Packages | Dynamo Player Packages | Custom Packages | Revit Version | Author | Modified By | File Name & Location | 
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--: 
 | HILTI  |  | Bimorph v4.2.4 | | | Revit 2020 | Cathrine Macabuhay | | 20230320_HLT_EXL_ExportScheduleChecklist V1.0.0 |
 |           |  | | | | | | | (https://bimcapcom.sharepoint.com/:f:/s/BCP-Main/EoNVZ_h5Yq5BlfQrrpJH2D4BileeFoAighlYJFmuz-dLpA?e=fPinld) |                 

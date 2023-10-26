@@ -12,7 +12,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category| Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location
+| File Category| Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :--: | :--:
 | VMC_NC | Excel Worksheet (for export) | BumbleBee 2021.25.3| 0_PACKAGE: 1_Naming Convention & Renamer (Separated) | | Revit 2021.1 | Cathrine Macabuhay | | VMC_NC_NamingConventionChecker 
 |         |  | Clockwork 1.x 1.34.0| | | | | | (https://bimcapcom.sharepoint.com/:f:/s/BCP-Main/ElYGA5RdGiBIlkBawDx8AvkBn3iaObiuJCUN5tJbVBrgzA?e=ROlI0Q)

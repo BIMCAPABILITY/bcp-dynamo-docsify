@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location | 
+| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location | 
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--: |
 | 275_SCH |  | Crumple v.2022.5.27 | | | Revit 2023 | Abjeet Singh |  | 20230914_275_SCH_ExportSchedule V1.0.0 |
 |         |  | Data-Shapes v.2023.2.111 |   | |            |              |  | (https://bimcapcom.sharepoint.com/:u:/s/BCP-Main/EX9FExLcR8NEnHASt-S4HW4BnJ8mN9cxJwfVk1OTrw4Eyg?e=NmF6WY) |

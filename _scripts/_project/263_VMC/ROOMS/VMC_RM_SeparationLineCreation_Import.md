@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location
+| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :--: | :--:
 | VMC_RM |  | BimorphNodes 4.2.1 | | | Revit 2021.1 | Jacky Luk | | VMC_RM_SeparationLineCreation_Import
 | | | | | | | | | (https://bimcapcom.sharepoint.com/:f:/s/BCP-Main/EtmeCVBVJRBDjXd4mcTyzAgBacqay7ie-Pv6y3dg9bDQ5w?e=GI3Hdf)

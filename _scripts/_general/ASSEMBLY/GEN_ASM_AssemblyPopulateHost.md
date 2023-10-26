@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Packages | Revit Version | Author | Reviewed By | File Name & Location | 
+| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Packages | Revit Version | Author | Modified By | File Name & Location | 
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--: |
 | HLT_3D  |  | GeniusLoci v.2023.2.21| | | Revit 2023 | Melvin Tuliao | |GEN_ASM_AssemblyPopulateHost V1.0.0 |
 |           |  | Clockwork V2 | | | | | | (https://bimcapcom.sharepoint.com/:u:/s/BCP-Main/EZYcqGGLXWtBk65lZ-utsuABOozK1KnaPhJ_46d_3URoDA?e=Gi9xqM) |                 

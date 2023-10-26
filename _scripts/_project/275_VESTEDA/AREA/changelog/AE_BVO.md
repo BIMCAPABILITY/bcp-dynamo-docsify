@@ -14,6 +14,11 @@ All Notable Changes to the Script will be Documented in This File.
 | 06_R&D\01_Automation\01_Dynamo\01_Scripts\02_PROJECT\275_VESTEDA\AREA |
 ------------------------------------------------------------------
 
+### [3.1.0] - 2023-10-16
+##### ADDED & CHANGED
+- Modified By: Abjeet Singh
+- Script Changed - Added Unit Address & Organizing Category
+
 ### [3.0.0] - 2023-09-26
 ##### ADDED & CHANGED
 - Script Changed - Removed Area Boundary Generator. Added Area Tags

@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location | 
+| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location | 
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--: |
 | GEN_AE |  | GeniusLoci 2023.2.21 | | | Revit 2023 | Melvin Tuliao | | GEN_WA_WallProtection_Corner_ByEdge V1.0.0 |
 |        |  | Clockwork V2 | | |              |              | | (https://bimcapcom.sharepoint.com/:u:/s/BCP-Main/EUVnFc1BQr1KomcrKCJUYvwB4cfveEx-bZ3kIULniQolqQ?e=ZsIhXL) |

@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location | 
+| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location | 
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--: |
 | JGC_SUP |  | Wombat Dynamo v.1.3.2 |  |  | Revit 2020.2.9 | Bino Tuliao | | JGC_SUP_DUCTHangerPlacer |
 |           |  | archilab.net v2022.212.3121 |                 |                    | | | | (https://bimcapcom.sharepoint.com/:f:/s/BCP-Main/EkUV1F95ULtFqMGB22mN7NIBKRhWmEfSulEqbucyJO3M9w?e=RQBIIA) |

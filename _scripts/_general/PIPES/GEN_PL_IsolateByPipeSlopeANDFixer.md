@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location | 
+| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location | 
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--: |
 | GEN_AE |  | SpringNodes v210.1.1 | | | Revit 2023 | Melvin Tuliao | | GEN_PL_IsolateByPipeSlopeANDFixer V1.0.0 |
 |        |  | Clockwork V2 | | |              |              | | (https://bimcapcom.sharepoint.com/:u:/s/BCP-Main/ERNJFlEDXsVDvuXI8qnTPFUB9ckQza9mCvuQW8GYgDWbDQ?e=5pVcWg) |

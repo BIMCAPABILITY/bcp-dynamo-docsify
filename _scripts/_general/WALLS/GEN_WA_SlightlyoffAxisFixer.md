@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category| Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location |
+| File Category| Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location |
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :--: | :--:
 | GEN_WA |  | spring nodes v.210.1.1 | | Revit 2021.1 | Jacky Luk | | | GEN_WA_SighlyoffAxisFixer
 | | | archi-lab.net 2023.213.1523 | | | | | |(https://bimcapcom.sharepoint.com/:u:/s/BCP-Main/EQjAYK6qG5ROmmgvEbfWJJUBTHhR3669DmvoW3Dac2tvVQ?e=qIi0K8)

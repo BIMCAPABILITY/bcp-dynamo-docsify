@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location | 
+| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location | 
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--: |
 | JGC_FIX |  | Bimorph Nodes v.4.2.4 |  |  | Revit 2020.2.9 | Bino Tuliao | | JGC_FIX_ElectricalDevices&Fixtures_Location |
 |           |  | GeniusLoci v.2023.2.21 |                 |                    | | | | (https://bimcapcom.sharepoint.com/:f:/s/BCP-Main/EvneTY3yKO5Aq3Zfeo0PlOwBgZGZmNNra39sSEDOTkTXdg?e=oEIa1P) |

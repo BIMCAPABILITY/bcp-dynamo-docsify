@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location | 
+| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location | 
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--: |
 | GEN_AE |  | BimorphNodes v.4.2.4 | | | Revit 2023 | Melvin Tuliao | | GEN_AE_AreaBoundary_fromCADLayer V1.0.0 |
 |        |  | Clockwork for Dynamo 2x 2.4.0 | | |              |              | | (https://bimcapcom.sharepoint.com/:u:/s/BCP-Main/ERRpdwOJXqtKm8z7ZjBNZvEB5xGH1vpiWgTNWqcO_69IAw?e=agznZP) |

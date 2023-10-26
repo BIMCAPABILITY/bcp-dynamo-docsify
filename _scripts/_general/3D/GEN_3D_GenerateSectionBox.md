@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category| Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location |
+| File Category| Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location |
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--:
 | GEN_3D   |  | Rhythm 2020.9.8 | | | Revit 2020 | Cathrine Macabuhay | | 20220902_GEN_3D_Generate_3DandPlanViewsfromSectionBox V.1.0.0 |
 |           |  | Orchid 230.1.0.7711 | | | | | | (https://bimcapcom.sharepoint.com/:f:/s/BCP-Main/EpfrAy1JSu5Cn-xTW2LLi48BnJSr8jEtNf6CHGVmLtslJQ?e=w66SbE) |                

@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location | 
+| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location | 
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--:
 | GEN_WAR |  | Bang! 2021.4.3 |  |  | Revit 2021.1 | Melvin Tuliao |  Cathrine Macabuhay | 20220906_GEN_WAR_Show_ModelwWarnings V1.0.1 |
 |  |  | archi-lab.net 2023.213.1523 | | | | | | (https://bimcapcom.sharepoint.com/:f:/s/BCP-Main/EpLwVm16YxFMtqUMMEDjOaQBtay_h_xPu0RBgARJklQPew?e=RgV3lH) |

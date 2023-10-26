@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location | 
+| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location | 
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--: |
 | JGC_ME |  | BimorphNodes v.4.2.4 | | | Revit 2020.2.9 | Bino Tuliao | | JGC_ME_MechanicalEquipment_Location |
 |           |  | Genius Loci v.2023.2.21 |                 |                    | | | | (https://bimcapcom.sharepoint.com/:f:/s/BCP-Main/EsnAexwSeJhPhKOFRB7qJmQBp7XuHmeQklB0ROpOJeXUew?e=IO1Pc7) |

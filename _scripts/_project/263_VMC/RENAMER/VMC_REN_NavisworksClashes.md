@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category| Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location
+| File Category| Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :--: | :--: 
 | VMC_REN |  | DynaWorks21 v.2.0.1 | | | Revit 2021.1 | Cathrine Macabuhay | | VMC_REN_NavisworksClashes
 | | | | | | | | | (https://bimcapcom.sharepoint.com/:f:/s/BCP-Main/EsoDgNEM_W5HpCEI7KjA8BIB6x673ndlz01-eGqQ6ABqcA?e=8UWhY6)

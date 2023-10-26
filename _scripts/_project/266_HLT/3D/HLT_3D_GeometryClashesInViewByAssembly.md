@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Packages | Revit Version | Author | Reviewed By | File Name & Location | 
+| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Packages | Revit Version | Author | Modified By | File Name & Location | 
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--: |
 | HLT_3D  |  | GeniusLoci v.2023.2.21| | | Revit 2023 | Melvin Tuliao | | HLT_3D_GeometryClashesInViewByAssembly V1.0.0 |
 |           |  | Clockwork V2 | | | | | | (https://bimcapcom.sharepoint.com/:u:/s/BCP-Main/EUmZgkssFttAvnDdFMWJF58BmKq4m5BYXnorZke47EH98A?e=tN69f3) |                 

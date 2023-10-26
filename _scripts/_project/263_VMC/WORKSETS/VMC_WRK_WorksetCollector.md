@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category| Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location |
+| File Category| Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location |
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :--: | :--:
 | VMC_WRK | Excel Workbook | archilab.net v.2023.213.1523 | | | Revit 2021.1 | Cathrine Macabuhay|  | VMC_WRK_WorksetCollector |
 | | | Crumple 2022.5.27 | | | | | | (https://bimcapcom.sharepoint.com/:f:/s/BCP-Main/EnqgBAMksfJEkmp3aisl7s8BxkLOCUpQgiqN6O7GUrwBsA?e=GR5LIy)

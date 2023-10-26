@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location | 
+| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location | 
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--: |
 | GEN_WA |  | Clockwork 1.x v1.34.0 | | | Revit 2021.1 | Abjeet Singh | | GEN_WA_HorizontalWallProtection |
 |        |  | RIE v2023.7.1 | | |              |              | | (https://bimcapcom.sharepoint.com/:u:/s/BCP-Main/Ef0bbvNua2VAgp00XwU-a_EB9VIx_e0jZbTbg-d5UGG-kQ?e=FH48fo) |

@@ -12,7 +12,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location | 
+| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location | 
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--: |
 | GEN_3D |  | Bang! 2021.4.3 | | | Revit 2021.1 | Melvin Tuliao | | GEN_3D_IsolateByWarnings |
 |           |  | Data-Shapes 2022.2.103|                 |                    | | | | 20220909_GEN_3D_ClashIsolate_V.1.0.1_Dynamo Player |

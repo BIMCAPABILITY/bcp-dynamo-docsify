@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location | 
+| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location | 
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--: |
 | GEN_WA |  | archi-lab.net v2022.212.3121 | | | Revit 2021.1 | Abjeet Singh | | GEN_WA_IsolateWallByHeight V1.0.0 |
 |        |  | RIE v2021.7.1 | | |              |              | | (https://bimcapcom.sharepoint.com/:u:/s/BCP-Main/EeMgGav-khtFlZ1eQObxaGkBpZg5Jo2_VsuD3OL757cpng?e=vHApfx) |

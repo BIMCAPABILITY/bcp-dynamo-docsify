@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category| Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location
+| File Category| Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :--: | :--: 
 | GEN_MAT |  | Genius Loci V2023.1.23 |  |  | Revit 2021.1 | Abjeet Singh | | GEN_MAT_RemoveMaterialByFamilyType | | | | | | | | | (https://bimcapcom.sharepoint.com/:u:/s/BCP-Main/Eb7EIvgQjNVHkFObwTP5MPkBd6b7z7EA1gntK1Ax__2Dyw?e=ycCsaG)
 

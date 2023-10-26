@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category| Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location
+| File Category| Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--:
 | VMC_COLLR | Script: WA_OffAxisFixer | archi-lab 2023.213.1523 |  |  1_WA_OffAxis_HotFix (In 'WALLS' Category) -> 2.RECREATE METHOD | Revit 2021.1 | Cathrine Macabuhay| | VMC_CREA_RecreateDeletedElements
 | | | RIE 2021.7.1 | | | | | | (https://bimcapcom.sharepoint.com/:f:/s/BCP-Main/Ess0Nz_rGjhKg3FsmkIBCigBenOH1xmGyoCNY5q7zalSXw?e=Fk65Sn)

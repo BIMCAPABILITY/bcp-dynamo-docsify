@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location | 
+| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location | 
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--: |
 | 275_WA |  | Clockwork v.2.4.0| | 1_WA_AutoDimensions |Revit 2023 | Cathrine Macabuhay |  | 275_WA_Dim_IsolateWalls_HorVert / A.Isolate Walls |
 |           |  | MEPover v.2022.1.1 | | | | | | (https://bimcapcom.sharepoint.com/:f:/s/BCP-Main/ErpHmrWfSLxPjgdDlNp8uO8BAi89BwNIZahtbCND2WjvtQ?e=eFyZdz) |

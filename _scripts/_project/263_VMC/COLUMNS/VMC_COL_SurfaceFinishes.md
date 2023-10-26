@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category| Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location
+| File Category| Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :--: | :--: 
 | VMC_COL |  | Clockwork 1.31.1 | | | Revit 2021.1 | Jacky Luk | | VMC_COL_SurfaceFinishes 
 | | | | | | | | | (https://bimcapcom.sharepoint.com/:f:/s/BCP-Main/EqKPmL5Ji1hGvAvz8mGBQ78BjprlRMtaWjfJJvdVu11gQg?e=MUwDaG)

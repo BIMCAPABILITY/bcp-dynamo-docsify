@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category| Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location |
+| File Category| Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location |
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :--: | :--:
 | VMC_SCH  |  | Spring Nodes v.210.1.1 | | | Revit 2021 | Jacky Luk |  | VMC_SCH_ScheduleInput
 |           |  | | | | | | | (https://bimcapcom.sharepoint.com/:f:/s/BCP-Main/EiQ5KMgVhbtDvtDd-iySdnMBGykHXOd8O1JLJWUW0KqRtg?e=2rIsC7)                       

@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location
+| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :--: | :--:
 | GEN_RM |  | spring nodes v.210.1.1 |  | | Revit 2021.1 | Jacky Luk | | GEN_RM_SlightlyoffAxisFixer
 | | | | | | | | | (https://bimcapcom.sharepoint.com/:u:/s/BCP-Main/EY3wGPhZFeRErSFA1E7EBQYBRu3dRs0dp1S3zdwDk82gFA?e=7k1UkX)

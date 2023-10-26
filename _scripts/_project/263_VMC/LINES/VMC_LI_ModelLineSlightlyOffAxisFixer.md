@@ -10,7 +10,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category| Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location
+| File Category| Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--:
 | VMC_LI|  | Clockwork |  |  | Revit 2021.1 | Jacky Luk | | VMC_LI_ModelLineSlightlyOffAxisFixer
 | |  | Spring Nodes v.210.1.1 | | | | | | (https://bimcapcom.sharepoint.com/:f:/s/BCP-Main/ElX6tH2l9dJPqqSYhvD88nQBKtOXPj8FrPBlCE22Q7vTlA?e=x18POp)

@@ -12,7 +12,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category| Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location 
+| File Category| Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location 
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :--: | :--: |
 | VMC_REN | 0_PACKAGE: 1_Naming Convention & Renamer (Separated) | BumbleBee 2021.25.3| | | Revit 2021.1 |Cathrine Macabuhay | | VMC_REN_FamilyRenamer
 |         |  | Clockwork 1.x 1.34.0| | | | | | (https://bimcapcom.sharepoint.com/:f:/s/BCP-Main/EsoDgNEM_W5HpCEI7KjA8BIB6x673ndlz01-eGqQ6ABqcA?e=8UWhY6)

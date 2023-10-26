@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location | 
+| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location | 
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--: |
 | JGC_PL |  | Clockwork | | | Revit 2020.2.9 | Bino Tuliao | | JGC_PL_IsolateByPipeSlopeANDFixer |
 |           |  | Spring Nodes v.210.1.1 |                 |                    | | | | (https://bimcapcom.sharepoint.com/:f:/s/BCP-Main/Es8H0Umf6QJJkdHLSH7h0_EBSL3uUoydBgbMLOZbG7IZEw?e=1XRwAo) |

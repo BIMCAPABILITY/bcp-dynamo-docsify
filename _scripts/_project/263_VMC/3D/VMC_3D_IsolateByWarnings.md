@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category| Associated Files | Dynamo Packages | Custom Packages | Dynamo PLayer Package | Revit Version | Author | Reviewed By | File Name & Location |
+| File Category| Associated Files | Dynamo Packages | Custom Packages | Dynamo PLayer Package | Revit Version | Author | Modified By | File Name & Location |
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :--: | :--:
 | VMC_3D  |  | Bang! 2021.4.3| | | Revit 2021 | Melvin Tuliao | Cathrine Macabuhay | VMC_3D_IsolateByWarnings
 |           |  | Data Shapes 2022.2.103| | | | | | (https://bimcapcom.sharepoint.com/:f:/s/BCP-Main/EurYKzItUkBGhEHOcDnsEuYBvIBIDGiF4otKlV4Qz_u62g?e=Uwxeo4)               

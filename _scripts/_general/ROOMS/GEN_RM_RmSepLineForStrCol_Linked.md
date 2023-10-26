@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Packages | Revit Version | Author | Reviewed By | File Name & Location | 
+| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Packages | Revit Version | Author | Modified By | File Name & Location | 
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--: |
 | GEN_RM |  | Clockwork 1.x V1.34.0 |        | | Revit 2021.1 | Abjeet Singh | | GEN_RM_SeparationLineCreationForStrCol_Linked V1.0.0 | 
 |        |  | Spring Nodes v210.1.1 |        | |              |              | | (https://bimcapcom.sharepoint.com/:u:/s/BCP-Main/ES5Hv9lEUD5Co7ePMPrvQvABu3t3f6F7wxTq0bAmJ9yZmw?e=YhSuEe) |

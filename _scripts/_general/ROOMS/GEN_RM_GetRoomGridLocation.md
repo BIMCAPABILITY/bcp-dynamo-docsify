@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location
+| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :--: | :--:
 | GEN_RM |  | Clockwork 1.31.1 | | | Revit 2021.1 | Bino Tuliao | | GEN_RM_GetRoomGridLocation
 | | | Rhythm v.2023.1.1 | | | | | | (https://bimcapcom.sharepoint.com/:u:/s/BCP-Main/EVthI9BM_W9LiTOfaQ2uX1EBfYXlkumU1JUEwzc6g_8uwQ?e=BZxksp)

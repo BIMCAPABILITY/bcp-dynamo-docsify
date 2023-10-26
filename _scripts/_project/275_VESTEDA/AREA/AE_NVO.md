@@ -11,22 +11,26 @@
 
 | Latest Version | Log |
 | :-------: | :----: | 
-| A) [3.0.0] | [CHANGELOG](/_scripts/_project/275_VESTEDA/AREA/changelog/AE_NVO.md) |
+| A) [3.1.0] | [CHANGELOG](/_scripts/_project/275_VESTEDA/AREA/changelog/AE_NVO.md) |
 | B) [1.0.1] | 
 
 > #### SCRIPT INFORMATION: 
 
-| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location | 
+| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location | 
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--: |
-| 275_AE |  | archi-lab.net 2023.213.1523 | | 2_AE_AutoArea&AreaTags | Revit 2023 | Cathrine Macabuhay |  | 1_NVO_v.3.0.0 |
+| 275_AE |  | archi-lab.net 2023.213.1523 | | 2_AE_AutoArea&AreaTags | Revit 2023 | Cathrine Macabuhay | Abjeet Singh | 1_NVO_v.3.0.0 |
 |           |  | Wombat Dynamo V.2.3.5 |                 |                    | | | | (https://bimcapcom.sharepoint.com/:f:/s/BCP-Main/EpTSYF56d-dLuhMSF4Tstw8BF8kQsWPjHz8lDHeCSb9mgA?e=ZgD5kT) |
 | | | Spring Nodes v210.1.1 |
+| | | Crumple 2022.5.27 |
+| | | Clockwork v.2.4.0 |
+| | | Genius Loci 2023.7.13 |
+
 
 ------------------------------------------------------------
 > #### SCRIPT: 
 
-#### v.3.0.0
-<img src="./_scripts/_project/275_VESTEDA/AREA/images/NVO_v.3.0.0.png">
+#### v.3.1.0
+<img src="/_scripts/_project/275_VESTEDA/AREA/images/NVO_v.3.1.0.png">
 
 #### A) NVO
 <img src="./_scripts/_project/275_VESTEDA/AREA/images/275_AE_A_NVO.png">
@@ -38,22 +42,21 @@
 
 > #### DEMO: 
 
-#### v.3.0.0
+#### v.3.1.0
 <video width="1280" height="720" controls>
- <source src="./_scripts/_project/275_VESTEDA/AREA/demo/NVO V.3.0.0.mp4" type="video/mp4">
+ <source src="./_scripts/_project/275_VESTEDA/AREA/demo/NVO_v3.1.0.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 
 - Please Install Packages First
-- Open Package Folder: 2_AE_AutoArea&AreaTags
+- Open Package Folder: 3_AE_BoundaryLines&AreaPlacements
 ----------------------------------------------------------------
-#### A) NVO
+#### NVO
 - *01: Open Dynamo Player*
 - *02: Click the Script Box to Edit Inputs*
-- *03: Select Area Views*
+- *03: Select Area Tag Family | Toggle to Run On/Off*
 - *04: Type in Area View Comment*
-- *05: Select Area Tag Family | Toggle to Run On/Off*
-- *06: Run the Script*
+- *05: Run the Script*
 
 ----------------------------------------------------------------
 

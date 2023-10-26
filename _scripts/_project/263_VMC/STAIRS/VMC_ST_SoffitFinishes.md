@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category| Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location |
+| File Category| Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location |
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :--: | :--:
 | VMC_ST | | GeniusLoci v.2023.1.23 | | | Revit 2021.1 | Jacky Luk | Cathrine Macabuhay | VMC_ST_SoffitFinishes
 | | | Clockwork 1.34.0 | | | | | | (https://bimcapcom.sharepoint.com/:f:/s/BCP-Main/EuTGIE6Eug5Iotk5SOPoRUkBRolwQkeE6EM4cgwq0Qos4w?e=osBHPE)

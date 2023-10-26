@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category| Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package| Revit Version | Author | Reviewed By | File Name & Location
+| File Category| Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package| Revit Version | Author | Modified By | File Name & Location
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :--: | :--:
 | VMC_RM | VMC_RM_AutoNamer_SubElement & CategoryFunction | Clockwork 1.34.0 |  | 0_PACKAGE: 2_RM_AutoNamer_RoomCategoryCodes | Revit 2021.1 | Cathrine Macabuhay | | VMC_RM_AutoNamer_NamingConventionChecker
 | | Excel Workbook from VMC_RM_AutoNamer_SubElement & CategoryFunction| BumbleBee 2021.25.3 | | | | | | (https://bimcapcom.sharepoint.com/:f:/s/BCP-Main/EtmeCVBVJRBDjXd4mcTyzAgBacqay7ie-Pv6y3dg9bDQ5w?e=GI3Hdf)

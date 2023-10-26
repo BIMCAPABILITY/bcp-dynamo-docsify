@@ -11,7 +11,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location | 
+| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location | 
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--: |
 | JGC_WRK |  | archilab.net v2023.213.1523 |  |  | Revit 2020.2.9 | Bino Tuliao | | JGC_WRK_WorksetByDiscipline[JGC-FIRE PROTECTION] |
 |           |  | Clockwork 2.4.0 |                 |                    | | | | (https://bimcapcom.sharepoint.com/:f:/s/BCP-Main/ErPnAS-5bsBBjNIlIeCiUfEB70RMITBYBMuugdmzXw5wLA?e=ad9Z5O) |

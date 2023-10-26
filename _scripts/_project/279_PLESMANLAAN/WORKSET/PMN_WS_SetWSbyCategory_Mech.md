@@ -12,7 +12,7 @@
 
 > #### SCRIPT INFORMATION: 
 
-| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Reviewed By | File Name & Location | 
+| File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location | 
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--: |
 | PMN_WS |  | archilab.net v2023.213.1722 |  |  | Revit 2023 | Abjeet Singh | | PMN_WS_SetWSbyCategory_Mech V1.0.0 |
 |           |  | Clockwork 2.6.0 |                 |                    | | | | (https://bimcapcom.sharepoint.com/:u:/s/BCP-Main/EajevNFWQaBNq0-pL_rHBgQBWmrD1_uP-hsVshIopc8BIg?e=qwRZSc) |
