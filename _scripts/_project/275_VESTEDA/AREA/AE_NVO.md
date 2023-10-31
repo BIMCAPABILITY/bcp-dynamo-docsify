@@ -30,7 +30,7 @@
 > #### SCRIPT: 
 
 #### v.3.1.0
-<img src="/_scripts/_project/275_VESTEDA/AREA/images/NVO_v.3.1.0.png">
+<img src="./_scripts/_project/275_VESTEDA/AREA/images/NVO_v.3.1.0.png">
 
 #### A) NVO
 <img src="./_scripts/_project/275_VESTEDA/AREA/images/275_AE_A_NVO.png">
