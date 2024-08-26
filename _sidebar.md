@@ -90,6 +90,8 @@
                 - [● **JGC_WRK**: Workset By Discipline [Fire Protection]](/_scripts/_project/268_JGC/WORKSET/JGC_WRK_WorksetByDiscipline%5BJGC-FIRE%20PROTECTION%5D.md)
                 - [● **JGC_WRK**: Workset By Discipline [HVAC]](/_scripts/_project/268_JGC/WORKSET/JGC_WRK_WorksetByDiscipline%5BJGC-HVAC%5D.md)
                 - [● **JGC_WRK**: Workset By Discipline [PLUMBING]](/_scripts/_project/268_JGC/WORKSET/JGC_WRK_WorksetByDiscipline%5BJGC-PLUMBING%5D.md)
+            - VIEWS
+                - [● **JGC_VW**: JGC View Filter](/_scripts/_project/268_JGC/VIEWS/JGC_VW_View%20Filter.md)
 
         - 272_PDP
             - WALLS
