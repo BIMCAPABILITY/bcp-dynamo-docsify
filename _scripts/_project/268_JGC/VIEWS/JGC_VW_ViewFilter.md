@@ -18,13 +18,13 @@
 
 ----------------------------------------------------------------
 > #### SCRIPT: 
-<img src="/_scripts/_project/268_JGC/VIEWS/images/JGC_VW_VIEW FILTER_V1.0.0_2024-08-27_12-48-43.png">
+<img src="./_scripts/_project/268_JGC/VIEWS/images/JGC_VW_VIEW FILTER_V1.0.0_2024-08-27_12-48-43.png">
 ----------------------------------------------------------------
 
 > #### DEMO: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_project/268_JGC/VIEWS/demo/JGC_VIEW FILTER_DEMO.mp4" type="video/mp4">
+ <source src="./_scripts/_project/268_JGC/VIEWS/demo/JGC_VIEW FILTER_DEMO.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

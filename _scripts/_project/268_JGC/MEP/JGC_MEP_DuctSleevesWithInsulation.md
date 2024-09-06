@@ -18,13 +18,13 @@
 
 ----------------------------------------------------------------
 > #### SCRIPT: 
-<img src="/_scripts/_project/268_JGC/MEP/images/20240320_JGC_DuctSleevesWithInsulation_2024-08-27_12-26-55.png">
+<img src="./_scripts/_project/268_JGC/MEP/images/20240320_JGC_DuctSleevesWithInsulation_2024-08-27_12-26-55.png">
 ----------------------------------------------------------------
 
 > #### DEMO: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_project/268_JGC/MEP/demo/JGC_Pipe Sleeve Opening.mp4" type="video/mp4">
+ <source src="./_scripts/_project/268_JGC/MEP/demo/JGC_Pipe Sleeve Opening.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

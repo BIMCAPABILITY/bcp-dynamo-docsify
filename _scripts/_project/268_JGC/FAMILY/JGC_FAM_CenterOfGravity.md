@@ -18,13 +18,13 @@
 
 ----------------------------------------------------------------
 > #### SCRIPT: 
-<img src="/_scripts/_project/268_JGC/FAMILY/images/20240131_JGC_CenterOfGravity V1.0.0_2024-08-27_11-02-18.png">
+<img src="./_scripts/_project/268_JGC/FAMILY/images/20240131_JGC_CenterOfGravity V1.0.0_2024-08-27_11-02-18.png">
 ----------------------------------------------------------------
 
 > #### DEMO: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_project/268_JGC/FAMILY/demo/JGC_CENTER OF GRAVITY_DEMO.mp4" type="video/mp4">
+ <source src="./_scripts/_project/268_JGC/FAMILY/demo/JGC_CENTER OF GRAVITY_DEMO.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

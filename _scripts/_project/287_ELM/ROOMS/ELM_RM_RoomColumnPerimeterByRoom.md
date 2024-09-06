@@ -18,13 +18,13 @@
 
 ----------------------------------------------------------------
 > #### SCRIPT: 
-<img src="/_scripts/_project/287_ELM/ROOMS/images/20240723_VMC_RM_ColumnPerimeterByRoom_2024-08-27_01-29-55.png">
+<img src="./_scripts/_project/287_ELM/ROOMS/images/20240723_VMC_RM_ColumnPerimeterByRoom_2024-08-27_01-29-55.png">
 ----------------------------------------------------------------
 
 > #### DEMO: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_project/ELM/ROOMS/demo/240718_287_ELM_Script Demo.mp4" type="video/mp4">
+ <source src="./_scripts/_project/ELM/ROOMS/demo/240718_287_ELM_Script Demo.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

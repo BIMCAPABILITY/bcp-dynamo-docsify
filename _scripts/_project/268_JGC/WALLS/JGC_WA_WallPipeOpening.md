@@ -18,7 +18,7 @@
 
 ----------------------------------------------------------------
 > #### SCRIPT: 
-<img src="/_scripts/_project/268_JGC/WALLS/images/20240319_JGC_WallPipeOpening_2024-08-27_01-15-52.png">
+<img src="./_scripts/_project/268_JGC/WALLS/images/20240319_JGC_WallPipeOpening_2024-08-27_01-15-52.png">
 ----------------------------------------------------------------
 
 > #### DEMO: 

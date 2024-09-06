@@ -18,13 +18,13 @@
 
 ----------------------------------------------------------------
 > #### SCRIPT: 
-<img src="/_scripts/_project/268_JGC/FAMILY/images/20240409_JGC_MetadataRetainer V2.0.0_2024-08-27_11-56-00.png">
+<img src="./_scripts/_project/268_JGC/FAMILY/images/20240409_JGC_MetadataRetainer V2.0.0_2024-08-27_11-56-00.png">
 ----------------------------------------------------------------
 
 > #### DEMO: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_project/268_JGC/FAMILY/demo/JGC_METADATA RETAINER_V2.0.0_DEMO.mp4" type="video/mp4">
+ <source src="./_scripts/_project/268_JGC/FAMILY/demo/JGC_METADATA RETAINER_V2.0.0_DEMO.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 
