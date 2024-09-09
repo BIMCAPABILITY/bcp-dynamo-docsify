@@ -58,7 +58,6 @@
   - **BY PROJECT**
 
     - 266_HILTI
-
       - 3D
         - [● **HLT_3D**: Generate Floor Plan, Sections & 3D View - By Pick Edge](/_scripts/_project/266_HLT/3D/HLT_3D_GenerateFPSEC_PickEdge.md)
         - [● **HLT_3D**: Generate Floor Plan, Sections & 3D View - By Section Box](/_scripts/_project/266_HLT/3D/HLT_3D_GenerateFPSEC_SectionBox.md)
