@@ -7,14 +7,14 @@
 
 | Latest Version | Log |
 | :-------: | :----: | 
-|[1.0.0] | [CHANGELOG](/_scripts/_project/268_JGC/FAMILY/changelog/JGC_FAM_CenterOfGravity.md) |
+|[2.0.0] | [CHANGELOG](/_scripts/_project/268_JGC/FAMILY/changelog/JGC_FAM_CenterOfGravity.md) |
 
 > #### SCRIPT INFORMATION: 
 
 | File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location | 
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--: |
-| JGC_FAM |  |  |  |  | Revit 2020.2.9 | Melvin Tuliao | | JGC_FAM_CenterOfGravity |
-|           |  |  |                 |                    | | | | (https://bimcapcom.sharepoint.com/sites/BCP-Main/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FBCP%2DMain%2FShared%20Documents%2F06%5FR%26D%2F01%5FDynamo%2F01%5FScripts%2F02%5FPROJECT%2F281%5FJGC%2FFAMILY&p=true&ga=1) |
+| JGC_FAM |  | Clockwork |  |  | Revit 2023 | Melvin Tuliao | | JGC_FAM_CenterOfGravity |
+|           |  | GenerativeDesign v.2.0.10.0 |                 |                    | | | | (https://bimcapcom.sharepoint.com/sites/BCP-Main/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FBCP%2DMain%2FShared%20Documents%2F06%5FR%26D%2F01%5FDynamo%2F01%5FScripts%2F02%5FPROJECT%2F281%5FJGC%2FFAMILY&p=true&ga=1) |
 
 ----------------------------------------------------------------
 > #### SCRIPT: 

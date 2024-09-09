@@ -1,7 +1,7 @@
 # ELM_RM: ROOM SEPARATION LINE CREATION CAD
 
 > #### DESCRIPTION: 
-- **DESCRIPTION**
+- **CREATE ROOM SEPARATION LINE FOR STRUCTURAL ELEMENTS FROM CLEANED CAD**
 
 > #### CHANGELOG:
 
@@ -13,8 +13,9 @@
 
 | File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location | 
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--: |
-| ELM_RM |  |  |  |  | Revit 2020.2.9 | Bino Tuliao | | ELM_RM_RoomSeparationLineCreationCAD |
-|           |  |  |                 |                    | | | | (https://bimcapcom.sharepoint.com/sites/BCP-Main/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FBCP%2DMain%2FShared%20Documents%2F06%5FR%26D%2F01%5FDynamo%2F01%5FScripts%2F02%5FPROJECT%2F287%5FELM%2FROOMS&viewid=e0e0047a%2Dee02%2D4bdf%2D8915%2D4f9c8adce5be) |
+| ELM_RM |  | BimorphNode v5.1.3 |  |  | Revit 2024.2 | Abjeet Singh | | ELM_RM_RoomSeparationLineCreationCAD |
+|           |  | Clockwork v2.6.0 |                 |                    | | | | (https://bimcapcom.sharepoint.com/sites/BCP-Main/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2FBCP%2DMain%2FShared%20Documents%2F06%5FR%26D%2F01%5FDynamo%2F01%5FScripts%2F02%5FPROJECT%2F287%5FELM%2FROOMS&viewid=e0e0047a%2Dee02%2D4bdf%2D8915%2D4f9c8adce5be) |
+|   |   | Genius Loci v2024.2.26 |   |   |   |   |   |   |
 
 ----------------------------------------------------------------
 > #### SCRIPT: 

@@ -13,8 +13,10 @@
 
 | File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location | 
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--: |
-| JGC_FAM |  |  |  |  | Revit 2020.2.9 | Melvin Tuliao | | JGC_FAM_MetadataTransferSelective |
-|           |  | GeniusLoci v.2023.2.21 |                 |                    | | | | (https://bimcapcom.sharepoint.com/sites/BCP-Main/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FBCP%2DMain%2FShared%20Documents%2F06%5FR%26D%2F01%5FDynamo%2F01%5FScripts%2F02%5FPROJECT%2F281%5FJGC%2FFAMILY&p=true&ga=1) |
+| JGC_FAM |  | Synthesize |  |  | Revit 2023 | Melvin Tuliao | | JGC_FAM_MetadataTransferSelective |
+|           |  | Data-Shapes v.2023.2.111 |                 |                    | | | | (https://bimcapcom.sharepoint.com/sites/BCP-Main/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FBCP%2DMain%2FShared%20Documents%2F06%5FR%26D%2F01%5FDynamo%2F01%5FScripts%2F02%5FPROJECT%2F281%5FJGC%2FFAMILY&p=true&ga=1) |
+|   |   | GeniusLoci v.2023.2.21 |   |   |   |   |   |   |
+|   |   | archilab |   |   |   |   |   |   |
 
 ----------------------------------------------------------------
 > #### SCRIPT: 
