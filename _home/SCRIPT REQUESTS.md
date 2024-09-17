@@ -29,10 +29,10 @@ BIMCentre Script Requests Flow
 
 ----------------------------------------------------------
 > ## **SCRIPT REQUESTS FRAMEWORK**
-<img src="/_media/SCRIPT REQUEST FRAMEWORK.JPG">
+<img src="./_media/SCRIPT REQUEST FRAMEWORK.JPG">
 
 > ## **SCRIPT REQUESTS CREATION [BITRIX]**
-<img src="/_media/SCRIPT REQUEST CREATION [BITRIX].JPG">
+<img src="./_media/SCRIPT REQUEST CREATION [BITRIX].JPG">
 
 #### INSTRUCTIONS: 
 - *01: Go to the Mast Script Request Task [Organized into General & Project Specific]*
