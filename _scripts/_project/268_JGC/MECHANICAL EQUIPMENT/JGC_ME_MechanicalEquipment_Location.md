@@ -19,13 +19,13 @@
 
 ----------------------------------------------------------------
 > #### SCRIPT: 
-<img src="/_scripts/_project/268_JGC/MECHANICAL%20EQUIPMENT/images/JGC_ME_MechanicalEquipment_Location.png">
+<img src="./_scripts/_project/268_JGC/MECHANICAL%20EQUIPMENT/images/JGC_ME_MechanicalEquipment_Location.png">
 ----------------------------------------------------------------
 
 > #### DEMO: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_project/268_JGC/MECHANICAL EQUIPMENT/demo/JGC_ME_MechanicalEquipment_Location.mp4" type="video/mp4">
+ <source src="./_scripts/_project/268_JGC/MECHANICAL EQUIPMENT/demo/JGC_ME_MechanicalEquipment_Location.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

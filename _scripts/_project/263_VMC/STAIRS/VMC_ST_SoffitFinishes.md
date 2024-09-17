@@ -19,7 +19,7 @@
 
 ----------------------------------------------------------------
 > #### SCRIPT: 
-<img src="/_scripts/_project/263_VMC/STAIRS/images/VMC_ST_SoffitFinishes.png">
+<img src="./_scripts/_project/263_VMC/STAIRS/images/VMC_ST_SoffitFinishes.png">
 
 
 ------------------------------------------------------------------------------
@@ -27,7 +27,7 @@
 > #### **DEMO**: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_project/263_VMC/STAIRS/demo/VMC_ST_SoffitFinishes.mp4" type="video/mp4">
+ <source src="./_scripts/_project/263_VMC/STAIRS/demo/VMC_ST_SoffitFinishes.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

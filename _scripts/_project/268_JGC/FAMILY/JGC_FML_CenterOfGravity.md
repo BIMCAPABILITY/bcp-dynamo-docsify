@@ -1,32 +1,30 @@
-# JGC_WA: PIPE WALL OPENING
+# JGC_FML: CENTER OF GRAVITY
 
 > #### DESCRIPTION: 
-- **ADD PIPE SLEEVES ALONG THE INTERSECTION OF PIPE AND LINKED WALL**
+- **Get The XYZ distances of the selected elements based on the basepoint and grid references.**
 
 > #### CHANGELOG:
 
 | Latest Version | Log |
 | :-------: | :----: | 
-|[1.0.0] | [CHANGELOG](/_scripts/_project/268_JGC/WALLS/changelog/JGC_WA_PipeWallOpening.md) |
+|[1.0.0] | [CHANGELOG](/_scripts/_project/268_JGC/FAMILY/changelog/JGC_FML_CenterOfGravity.md) |
 
 > #### SCRIPT INFORMATION: 
 
 | File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location | 
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--: |
-| ELM_RM |  | Synthesize |  |  | Revit 2023 | Melvin Tuliao | | JGC_WA_PipeWallOpening |
-|           |  | Data-Shapes v.2023.2.111 |                 |                    | | | | (https://bimcapcom.sharepoint.com/sites/BCP-Main/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FBCP%2DMain%2FShared%20Documents%2F06%5FR%26D%2F01%5FDynamo%2F01%5FScripts%2F02%5FPROJECT%2F281%5FJGC%2FWALLS&p=true&ga=1) |
-|   |   | GeniusLoci v.2023.2.21 |   |   |   |   |   |   |
-|   |   | archilab |   |   |   |   |   |   |
+| JGC_FML |  | Clockwork |  |  | Revit 2023 | Melvin Tuliao | | JGC_FML_CenterOfGravity |
+|           |  | GenerativeDesign v.2.0.10.0 |                 |                    | | | | (https://bimcapcom.sharepoint.com/sites/BCP-Main/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FBCP%2DMain%2FShared%20Documents%2F06%5FR%26D%2F01%5FDynamo%2F01%5FScripts%2F02%5FPROJECT%2F281%5FJGC%2FFAMILY&p=true&ga=1) |
 
 ----------------------------------------------------------------
 > #### SCRIPT: 
-<img src="./_scripts/_project/">
+<img src="./_scripts/_project/268_JGC/FAMILY/images/20240131_JGC_CenterOfGravity V1.0.0_2024-08-27_11-02-18.png">
 ----------------------------------------------------------------
 
 > #### DEMO: 
 
 <video width="1280" height="720" controls>
- <source src="./_scripts/_project/268_JGC/WALLS/demo/JGC_Pipe Sleeve Opening.mp4" type="video/mp4">
+ <source src="./_scripts/_project/268_JGC/FAMILY/demo/JGC_CENTER OF GRAVITY_DEMO.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

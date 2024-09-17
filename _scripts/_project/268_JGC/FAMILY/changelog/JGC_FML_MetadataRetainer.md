@@ -1,4 +1,4 @@
-# CHANGELOG [JGC_WA : DUCT & TRAY WALL OPENING]
+# CHANGELOG [JGC_FML : METADATA RETAINER]
 All Notable Changes to the Script will be Documented in This File.
 
 | Comment | Description |
@@ -11,9 +11,9 @@ All Notable Changes to the Script will be Documented in This File.
 
 | File Path | 
 | :-- |
-|06_R&D\01_Automation\01_Dynamo\01_Scripts\02_PROJECT\268_JGC\MECHANICAL EQUIPMENT|
+|06_R&D\01_Automation\01_Dynamo\01_Scripts\02_PROJECT\268_JGC\FAMILY |
 ------------------------------------------------------------------
 
-### [1.0.0] - 2023-06-06
+### [2.0.0] - 2023-04-09
 ##### CREATED
 - Script Created

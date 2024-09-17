@@ -19,13 +19,13 @@
 ------------------------------------------------------------
 > #### **SCRIPT** 
 
-<img src="/_scripts/_general/WORKSETS/1_ASSIGN/images/GEN_WS_AssignLinktypeWorkset.png">
+<img src="./_scripts/_general/WORKSETS/1_ASSIGN/images/GEN_WS_AssignLinktypeWorkset.png">
 
 ------------------------------------------------------------
 
 > #### DEMO [BATCH ASSIGN]:
 <video width="1280" height="720" controls>
- <source src="/_scripts/_general/WORKSETS/1_ASSIGN/demo/GEN_WS_AssignLinktypeWorkset_Batch.mp4" type="video/mp4">
+ <source src="./_scripts/_general/WORKSETS/1_ASSIGN/demo/GEN_WS_AssignLinktypeWorkset_Batch.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS [BATCH LINKS]: 
@@ -37,7 +37,7 @@
 ------------------------------------------------------------
 > #### DEMO [INDIVIDUAL LINKS]:
 <video width="1280" height="720" controls>
- <source src="/_scripts/_general/WORKSETS/1_ASSIGN/demo/GEN_WS_AssignLinktypeWorkset_Individual.mp4">
+ <source src="./_scripts/_general/WORKSETS/1_ASSIGN/demo/GEN_WS_AssignLinktypeWorkset_Individual.mp4">
 </video>
 
 #### INSTRUCTIONS [INDIVIDUAL LINKS]: 

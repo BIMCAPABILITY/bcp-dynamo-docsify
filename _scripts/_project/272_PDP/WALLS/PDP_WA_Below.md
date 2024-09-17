@@ -18,13 +18,13 @@
 
 ----------------------------------------------------------------
 > #### SCRIPT: 
-<img src="/_scripts/_project/272_PDP/WALLS/images/PDP_WA_Below.png">
+<img src="./_scripts/_project/272_PDP/WALLS/images/PDP_WA_Below.png">
 ----------------------------------------------------------------
 
 > #### DEMO: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_project/272_PDP/WALLS/demo/PDP_WA_CommentsFilter.mp4" type="video/mp4">
+ <source src="./_scripts/_project/272_PDP/WALLS/demo/PDP_WA_CommentsFilter.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

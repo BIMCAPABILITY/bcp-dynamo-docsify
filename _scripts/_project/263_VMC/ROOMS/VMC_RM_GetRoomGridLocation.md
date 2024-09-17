@@ -22,14 +22,14 @@
 
 ----------------------------------------------------------------
 > #### SCRIPT: 
-<img src="/_scripts/_project/263_VMC/ROOMS/images/VMC_RM_GetRoomGridLocation.png">
+<img src="./_scripts/_project/263_VMC/ROOMS/images/VMC_RM_GetRoomGridLocation.png">
 
 
 ------------------------------------------------------------------------------
 
 > #### DEMO: 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_project/263_VMC/ROOMS/demo/VMC_RM_GetRoomGridLocation.mp4" type="video/mp4">
+ <source src="./_scripts/_project/263_VMC/ROOMS/demo/VMC_RM_GetRoomGridLocation.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

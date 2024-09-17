@@ -18,13 +18,13 @@
 
 ----------------------------------------------------------------
 > #### SCRIPT: 
-<img src="/_scripts/_project/272_PDP/WALLS/images/PDP_WA_WallProtection_Horizontal_Cut & Offset.png">
+<img src="./_scripts/_project/272_PDP/WALLS/images/PDP_WA_WallProtection_Horizontal_Cut & Offset.png">
 ----------------------------------------------------------------
 
 > #### DEMO: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_project/272_PDP/WALLS/demo/PDP_WA_WallProtection_Horizontal_Cut & Offset.mp4" type="video/mp4">
+ <source src="./_scripts/_project/272_PDP/WALLS/demo/PDP_WA_WallProtection_Horizontal_Cut & Offset.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

@@ -17,7 +17,7 @@
 | | | | | | | | | (https://bimcapcom.sharepoint.com/:f:/s/BCP-Main/Ess0Nz_rGjhKg3FsmkIBCigBenOH1xmGyoCNY5q7zalSXw?e=Fk65Sn)
 ----------------------------------------------------------------
 > #### SCRIPT: 
-<img src="/_scripts/_project/263_VMC/COLLECTOR/images/VMC_COLLR_GetDeletedElements_WA_OffAxis.png">
+<img src="./_scripts/_project/263_VMC/COLLECTOR/images/VMC_COLLR_GetDeletedElements_WA_OffAxis.png">
 
 
 ------------------------------------------------------------------------------
@@ -25,7 +25,7 @@
 > #### DEMO: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_project/263_VMC/COLLECTOR/demo/WA_OFFAXIS%20FIXER_RECREATE%20METHOD.mp4" type="video/mp4">
+ <source src="./_scripts/_project/263_VMC/COLLECTOR/demo/WA_OFFAXIS%20FIXER_RECREATE%20METHOD.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

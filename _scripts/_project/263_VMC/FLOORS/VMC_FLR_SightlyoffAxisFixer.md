@@ -18,7 +18,7 @@
 
 ----------------------------------------------------------------
 > #### SCRIPT: 
-<img src="/_scripts/_project/263_VMC/FLOORS/images/VMC_FLR_SightlyoffAxisFixer.png">
+<img src="./_scripts/_project/263_VMC/FLOORS/images/VMC_FLR_SightlyoffAxisFixer.png">
 
 
 ------------------------------------------------------------------------------
@@ -26,7 +26,7 @@
 > #### **DEMO**: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_project/263_VMC/FLOORS/demo/VMC_FLR_SighlyoffAxisFixer.mp4" type="video/mp4">
+ <source src="./_scripts/_project/263_VMC/FLOORS/demo/VMC_FLR_SighlyoffAxisFixer.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

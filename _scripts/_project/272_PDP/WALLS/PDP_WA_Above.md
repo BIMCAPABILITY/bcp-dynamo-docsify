@@ -17,13 +17,13 @@
 |         |  | Genius Loci 2022.7.5| | | | | | (https://bimcapcom.sharepoint.com/:f:/s/BCP-Main/EkUV1F95ULtFqMGB22mN7NIBKRhWmEfSulEqbucyJO3M9w?e=CvfinB)|
 ----------------------------------------------------------------
 > #### SCRIPT: 
-<img src="/_scripts/_project/272_PDP/WALLS/images/PDP_WA_Above.png">
+<img src="./_scripts/_project/272_PDP/WALLS/images/PDP_WA_Above.png">
 ----------------------------------------------------------------
 
 > #### DEMO: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_project/272_PDP/WALLS/demo/PDP_WA_CommentsFilter.mp4" type="video/mp4">
+ <source src="./_scripts/_project/272_PDP/WALLS/demo/PDP_WA_CommentsFilter.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

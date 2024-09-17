@@ -1,4 +1,4 @@
-# CHANGELOG [JGC_FAM : CENTER OF GRAVITY]
+# CHANGELOG [JGC_FML : CENTER OF GRAVITY]
 All Notable Changes to the Script will be Documented in This File.
 
 | Comment | Description |
@@ -11,9 +11,9 @@ All Notable Changes to the Script will be Documented in This File.
 
 | File Path | 
 | :-- |
-|06_R&D\01_Automation\01_Dynamo\01_Scripts\02_PROJECT\268_JGC\FAMILY |
+|06_R&D\01_Automation\01_Dynamo\01_Scripts\02_PROJECT\268_JGC\FAMILY|
 ------------------------------------------------------------------
 
-### [1.0.0] - 2023-06-06
+### [1.0.0] - 2023-01-28
 ##### CREATED
 - Script Created

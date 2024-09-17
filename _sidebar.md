@@ -98,8 +98,6 @@
         - [● **JGC_WA**: Wall Penetration Duct & Cable Tray Sleeves [Singles]](/_scripts/_project/268_JGC/WALLS/JGC_WA_Penetration_Duct%26CableTraySleeves_SINGLES.md)
         - [● **JGC_WA**: Wall Penetration Pipe Sleeves [All]](/_scripts/_project/268_JGC/WALLS/JGC_WA_Penetration_PipeSleeves_ALL.md)
         - [● **JGC_WA**: Wall Penetration Pipe Sleeves [Singles]](/_scripts/_project/268_JGC/WALLS/JGC_WA_Penetration_PipeSleeves_SINGLES.md)
-        - [● **JGC_WA**: Duct & Tray Wall Opening](/_scripts/_project/268_JGC/WALLS/JGC_WA_Duct&TrayWallOpening.md)
-        - [● **JGC_WA**: Pipe Wall Opening](/_scripts/_project/268_JGC/WALLS/JGC_WA_PipeWallOpening.md)
         - [● **JGC_WA**: Wall Duct & Tray Opening](/_scripts/_project/268_JGC/WALLS/JGC_WA_WallDuct&TrayOpening.md)
         - [● **JGC_WA**: Wall Pipe Opening](/_scripts/_project/268_JGC/WALLS/JGC_WA_WallPipeOpening.md)
       - WORKSETS

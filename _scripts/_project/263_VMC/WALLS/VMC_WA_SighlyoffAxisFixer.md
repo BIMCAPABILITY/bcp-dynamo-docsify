@@ -19,14 +19,14 @@
 
 ----------------------------------------------------------------
 > #### SCRIPT: 
-<img src="/_scripts/_project/263_VMC/WALLS/images/VMC_WA_SightlyoffAxisFixer.png">
+<img src="./_scripts/_project/263_VMC/WALLS/images/VMC_WA_SightlyoffAxisFixer.png">
 
 
 ------------------------------------------------------------------------------
 
 > #### DEMO: 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_project/263_VMC/WALLS/demo/VMC_WA_SighlyoffAxisFixer.mp4" type="video/mp4">
+ <source src="./_scripts/_project/263_VMC/WALLS/demo/VMC_WA_SighlyoffAxisFixer.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 
