@@ -25,6 +25,7 @@ Element Codes for Directory and Script Naming
 | COLUMNS | COL |
 | COORDINATES | COR |
 | CREATOR | CREA |
+| FAMILY | FML |
 | FLOORS | FLR |
 | GRID | GR|
 | LINES |  LI |

@@ -19,7 +19,7 @@
 
 ----------------------------------------------------------------
 > #### SCRIPT: 
-<img src="/_scripts/_project/263_VMC/ROOMS/images/VMC_RM_SeparationLineCreation_Import.png">
+<img src="./_scripts/_project/263_VMC/ROOMS/images/VMC_RM_SeparationLineCreation_Import.png">
 
 
 ------------------------------------------------------------------------------

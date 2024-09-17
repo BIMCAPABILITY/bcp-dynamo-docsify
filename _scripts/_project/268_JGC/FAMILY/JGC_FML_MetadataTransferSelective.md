@@ -1,32 +1,32 @@
-# JGC_WA: DUCT & TRAY WALL OPENING
+# JGC_FML: METADATA TRANSFER SELECTIVE
 
 > #### DESCRIPTION: 
-- **ADD PIPE SLEEVES ALONG THE INTERSECTION OF PIPE AND LINKED WALL**
+- **Copy Linked Room Parameter Values and and Paste it to the selected Model Elements on the Live Model**
 
 > #### CHANGELOG:
 
 | Latest Version | Log |
 | :-------: | :----: | 
-|[1.0.0] | [CHANGELOG](/_scripts/_project/268_JGC/WALLS/changelog/JGC_WA_Duct&TrayWallOpening.md) |
+|[1.0.0] | [CHANGELOG](/_scripts/_project/268_JGC/FAMILY/changelog/JGC_FML_MetadataTransferSelective.md) |
 
 > #### SCRIPT INFORMATION: 
 
 | File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location | 
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--: |
-| ELM_RM |  | Synthesize |  |  | Revit 2023 | Melvin Tuliao | | JGC_WA_Duct&TrayWallOpening |
-|           |  | Data-Shapes v.2023.2.111 |                 |                    | | | | (https://bimcapcom.sharepoint.com/sites/BCP-Main/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FBCP%2DMain%2FShared%20Documents%2F06%5FR%26D%2F01%5FDynamo%2F01%5FScripts%2F02%5FPROJECT%2F281%5FJGC%2FWALLS&p=true&ga=1) |
+| JGC_FML |  | Synthesize |  |  | Revit 2023 | Melvin Tuliao | | JGC_FML_MetadataTransferSelective |
+|           |  | Data-Shapes v.2023.2.111 |                 |                    | | | | (https://bimcapcom.sharepoint.com/sites/BCP-Main/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FBCP%2DMain%2FShared%20Documents%2F06%5FR%26D%2F01%5FDynamo%2F01%5FScripts%2F02%5FPROJECT%2F281%5FJGC%2FFAMILY&p=true&ga=1) |
 |   |   | GeniusLoci v.2023.2.21 |   |   |   |   |   |   |
 |   |   | archilab |   |   |   |   |   |   |
 
 ----------------------------------------------------------------
 > #### SCRIPT: 
-<img src="./_scripts/_project/">
+<img src="./_scripts/_project/268_JGC/FAMILY/images/20240321_JGC_MetadataTransferSelective V1.0.0_2024-08-27_11-56-53.png">
 ----------------------------------------------------------------
 
 > #### DEMO: 
 
 <video width="1280" height="720" controls>
- <source src="./_scripts/_project/268_JGC/WALLS/demo/JGC_Pipe Sleeve Opening.mp4" type="video/mp4">
+ <source src="./_scripts/_project/268_JGC/FAMILY/demo/JGC_METADATA RETAINER_V2.0.0_DEMO.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

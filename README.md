@@ -75,6 +75,7 @@ Element Codes for Directory and Script Naming
 | COORDINATES | COR |
 | CREATOR | CREA |
 | EXCEL | EXL |
+| FAMILY | FML |
 | FLOORS | FLR |
 | GRID | GR|
 | LINES |  LI |

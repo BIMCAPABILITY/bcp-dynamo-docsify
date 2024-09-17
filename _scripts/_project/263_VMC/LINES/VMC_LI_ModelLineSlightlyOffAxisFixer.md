@@ -16,7 +16,7 @@
 | |  | Spring Nodes v.210.1.1 | | | | | | (https://bimcapcom.sharepoint.com/:f:/s/BCP-Main/ElX6tH2l9dJPqqSYhvD88nQBKtOXPj8FrPBlCE22Q7vTlA?e=x18POp)
 ----------------------------------------------------------------
 > #### SCRIPT: 
-<img src="/_scripts/_project/263_VMC/LINES/images/VMC_LI_ModelLineSlightlyOffAxisFixer.png">
+<img src="./_scripts/_project/263_VMC/LINES/images/VMC_LI_ModelLineSlightlyOffAxisFixer.png">
 
 
 ------------------------------------------------------------------------------
@@ -24,7 +24,7 @@
 > #### DEMO: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_project/263_VMC/LINES/demo/VMC_LI_ModelLineSlightlyOffAxisFixer.mp4" type="video/mp4">
+ <source src="./_scripts/_project/263_VMC/LINES/demo/VMC_LI_ModelLineSlightlyOffAxisFixer.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

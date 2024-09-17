@@ -18,14 +18,14 @@
 
 ----------------------------------------------------------------
 > #### SCRIPT: 
-<img src="/_scripts/_project/263_VMC/COLUMNS/images/VMC_COL_SurfaceFinishes.png">
+<img src="./_scripts/_project/263_VMC/COLUMNS/images/VMC_COL_SurfaceFinishes.png">
 
 ------------------------------------------------------------------------------
 
 > #### DEMO: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_project/263_VMC/COLUMNS/demo/VMC_COL_SurfaceFinishes.mp4" type="video/mp4">
+ <source src="./_scripts/_project/263_VMC/COLUMNS/demo/VMC_COL_SurfaceFinishes.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

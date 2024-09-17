@@ -4,7 +4,7 @@ BIMCentre Script Requests Flow
 ----------------------------------------------------------
 
 > ## **SCRIPT CREATION PHASES**
-<img src="./_media/SCRIPT%20PHASES.JPG">
+<img src="./_media/SCRIPT CREATION PHASES.JPG">
 
 1. CONCEPTUALIZATION PHASE | 5% OF TIME TAKEN
     - Discussion of Script Feasibility. Complexity, Approaches and Deadline
@@ -29,10 +29,10 @@ BIMCentre Script Requests Flow
 
 ----------------------------------------------------------
 > ## **SCRIPT REQUESTS FRAMEWORK**
-<img src="./_media/BIMCENTRE%20REQUEST%20FRAMEWORK.JPG">
+<img src="./_media/SCRIPT REQUEST FRAMEWORK.JPG">
 
 > ## **SCRIPT REQUESTS CREATION [BITRIX]**
-<img src="./_media/SCRIPT%20REQUESTS%20CREATION.JPG">
+<img src="./_media/SCRIPT REQUEST CREATION [BITRIX].JPG">
 
 #### INSTRUCTIONS: 
 - *01: Go to the Mast Script Request Task [Organized into General & Project Specific]*

@@ -23,7 +23,7 @@
 
 <details>
 <summary>SCRIPT</summary>
-<img src="/_scripts/_project/263_VMC/CHECKER/images/VMC_NamingConventionChecker.png">
+<img src="./_scripts/_project/263_VMC/CHECKER/images/VMC_NamingConventionChecker.png">
 </details>
 
 ------------------------------------------------------------------------------
@@ -31,7 +31,7 @@
 > #### DEMO: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_project/263_VMC/CHECKER/demo/VMC_NamingConventionChecker.mp4" type="video/mp4">
+ <source src="./_scripts/_project/263_VMC/CHECKER/demo/VMC_NamingConventionChecker.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

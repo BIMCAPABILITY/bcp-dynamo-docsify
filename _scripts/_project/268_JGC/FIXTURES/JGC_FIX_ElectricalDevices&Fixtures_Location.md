@@ -18,13 +18,13 @@
 
 ----------------------------------------------------------------
 > #### SCRIPT: 
-<img src="/_scripts/_project/268_JGC/FIXTURES/images/JGC_FIX_ElectricalDevices%26Fixtures_Location.png">
+<img src="./_scripts/_project/268_JGC/FIXTURES/images/JGC_FIX_ElectricalDevices%26Fixtures_Location.png">
 ----------------------------------------------------------------
 
 > #### DEMO: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_project/268_JGC/FIXTURES/demo/JGC_FIX_ElectricalDevices&Fixtures_Location.mp4" type="video/mp4">
+ <source src="./_scripts/_project/268_JGC/FIXTURES/demo/JGC_FIX_ElectricalDevices&Fixtures_Location.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

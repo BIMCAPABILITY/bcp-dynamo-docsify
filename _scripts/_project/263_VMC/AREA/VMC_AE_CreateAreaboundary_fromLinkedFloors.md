@@ -18,14 +18,14 @@
 | | | GeniusLoci v.2023.1.23
 ----------------------------------------------------------------
 > #### SCRIPT: 
-<img src="/_scripts/_project/263_VMC/AREA/images/VMC_AE_CreateAreaBoundary_fromLinkedFloors.png">
+<img src="./_scripts/_project/263_VMC/AREA/images/VMC_AE_CreateAreaBoundary_fromLinkedFloors.png">
 
 
 ------------------------------------------------------------------------------
 
 > #### **DEMO**: 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_project/263_VMC/AREA/demo/VMC_AE_CreateAreaBoundary_fromLinkedFloors.mp4" type="video/mp4">
+ <source src="./_scripts/_project/263_VMC/AREA/demo/VMC_AE_CreateAreaBoundary_fromLinkedFloors.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

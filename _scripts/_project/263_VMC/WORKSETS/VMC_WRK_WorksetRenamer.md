@@ -18,7 +18,7 @@
 
 ----------------------------------------------------------------
 > #### SCRIPT: 
-<img src="/_scripts/_project/263_VMC/WORKSETS/images/VMC_WRK_WorksetRenamer.png">
+<img src="./_scripts/_project/263_VMC/WORKSETS/images/VMC_WRK_WorksetRenamer.png">
 
 
 ------------------------------------------------------------------------------
@@ -26,7 +26,7 @@
 > #### **DEMO**: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_project/263_VMC/WORKSETS/demo/VMC_WRK_WorksetRenamer.mp4" type="video/mp4">
+ <source src="./_scripts/_project/263_VMC/WORKSETS/demo/VMC_WRK_WorksetRenamer.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

@@ -18,14 +18,14 @@
 
 ----------------------------------------------------------------
 > #### SCRIPT: 
-<img src="/_scripts/_project/263_VMC/AREA/images/VMC_AE_AreaBoundary_fromCADLayer.png">
+<img src="./_scripts/_project/263_VMC/AREA/images/VMC_AE_AreaBoundary_fromCADLayer.png">
 
 
 ------------------------------------------------------------------------------
 
 > #### **DEMO**: 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_project/263_VMC/AREA/demo/VMC_AE_AreaBoundary_fromCADLayer.mp4" type="video/mp4">
+ <source src="./_scripts/_project/263_VMC/AREA/demo/VMC_AE_AreaBoundary_fromCADLayer.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

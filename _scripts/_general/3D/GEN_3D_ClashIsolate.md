@@ -34,7 +34,7 @@
 
 > #### DATA SHAPES UI:
 <video width="1280" height="720" controls>
- <source src="/_scripts/_general/3D/demo/GEN_3D_ClashIsolate_DSUI.mp4" type="video/mp4">
+ <source src="./_scripts/_general/3D/demo/GEN_3D_ClashIsolate_DSUI.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 
@@ -46,7 +46,7 @@
 ------------------------------------------------------------
 > #### DYNAMO PLAYER:
 <video width="1280" height="720" controls>
- <source src="/_scripts/_general/3D/demo/GEN_3D_ClashIsolate_DP.mp4" type="video/mp4">
+ <source src="./_scripts/_general/3D/demo/GEN_3D_ClashIsolate_DP.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

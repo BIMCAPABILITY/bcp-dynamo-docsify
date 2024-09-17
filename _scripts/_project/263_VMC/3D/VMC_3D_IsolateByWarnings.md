@@ -19,13 +19,13 @@
 
 ----------------------------------------------------------------
 > #### SCRIPT: 
-<img src="/_scripts/_project/263_VMC/3D/images/VMC_3D_IsolateByWarnings.png">
+<img src="./_scripts/_project/263_VMC/3D/images/VMC_3D_IsolateByWarnings.png">
 
 ------------------------------------------------------------------
 > #### **DEMO**: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_project/263_VMC/3D/demo/VMC_3D_IsolateByWarnings.mp4" type="video/mp4">
+ <source src="./_scripts/_project/263_VMC/3D/demo/VMC_3D_IsolateByWarnings.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

@@ -18,13 +18,13 @@
 
 ----------------------------------------------------------------
 > #### SCRIPT: 
-<img src="/_scripts/_project/272_PDP/WALLS/images/PDP_WA_WallProtection_Hor_Placement.png">
+<img src="./_scripts/_project/272_PDP/WALLS/images/PDP_WA_WallProtection_Hor_Placement.png">
 ----------------------------------------------------------------
 
 > #### DEMO: 
 
 <video width="1280" height="720" controls>
- <source src="/_scripts/_project/272_PDP/WALLS/demo/PDP_WA_WallProtection_Hor_Placement.mp4" type="video/mp4">
+ <source src="./_scripts/_project/272_PDP/WALLS/demo/PDP_WA_WallProtection_Hor_Placement.mp4" type="video/mp4">
 </video>
 
 #### INSTRUCTIONS: 

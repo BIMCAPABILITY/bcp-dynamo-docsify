@@ -11,9 +11,9 @@ All Notable Changes to the Script will be Documented in This File.
 
 | File Path | 
 | :-- |
-|06_R&D\01_Automation\01_Dynamo\01_Scripts\02_PROJECT\268_JGC\MECHANICAL EQUIPMENT|
+|06_R&D\01_Automation\01_Dynamo\01_Scripts\02_PROJECT\268_JGC\WALLS|
 ------------------------------------------------------------------
 
-### [1.0.0] - 2023-06-06
+### [1.0.0] - 2023-01-29
 ##### CREATED
 - Script Created

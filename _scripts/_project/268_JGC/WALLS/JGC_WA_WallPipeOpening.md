@@ -13,8 +13,8 @@
 
 | File Category | Associated Files | Dynamo Packages | Custom Packages | Dynamo Player Package | Revit Version | Author | Modified By | File Name & Location | 
 | :-------: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :--: |
-| ELM_RM |  | Synthesize |  |  | Revit 2023 | Melvin Tuliao | | JGC_WA_WallPipeOpening |
-|           |  | Data-Shapes v.2023.2.111 |                 |                    | | | | (https://bimcapcom.sharepoint.com/sites/BCP-Main/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FBCP%2DMain%2FShared%20Documents%2F06%5FR%26D%2F01%5FDynamo%2F01%5FScripts%2F02%5FPROJECT%2F281%5FJGC%2FWALLS&p=true&ga=1) |
+| JGC_WA |  | Synthesize |  |  | Revit 2023 | Melvin Tuliao | | JGC_WA_WallPipeOpening |
+|           |  | Data-Shapes v.2023.2.111 |                 |                    | | | | (https://bimcapcom.sharepoint.com/:u:/s/BCP-Main/EbWlBb-hrrBOouddGT-MRHoBHVD5YR9w7f5yOlUp9aurMg?e=buzHDz) |
 |   |   | GeniusLoci v.2023.2.21 |   |   |   |   |   |   |
 |   |   | archilab |   |   |   |   |   |   |
 
