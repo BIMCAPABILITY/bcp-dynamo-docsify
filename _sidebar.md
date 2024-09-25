@@ -10,15 +10,15 @@
       - [● **GEN_3D**: Floor Plan and Section View From Section Box](/_scripts/_general/3D/GEN_3D_FPandSEC_SectionBox.md)
       - [● **GEN_3D**: Isolate Elements by Warnings](/_scripts/_general/3D/GEN_3D_IsolateByWarnings.md)
       - [● **GEN_3D**: Generate 3D and Plan Views From Section Box](/_scripts/_general/3D/GEN_3D_GenerateSectionBox.md)
-      - [● **GEN_3D**: HIGHLIGHTS ASSEMBLY THAT HAS CLASHES WITH LINKED ELEMENTS](/_scripts/_general/3D/GEN_3D_GeometryClashesInViewByAssembly.md)
-      - [● **GEN_3D**: HIGHLIGHTS ASSEMBLY MEMBERS THAT HAS CLASHES WITH LINKED ELEMENTS](/_scripts/_general/3D/GEN_3D_GeometryClashesInViewByMembers.md)
+      - [● **GEN_3D**: Highlights Assembly That Has Clashes With Licked Elements](/_scripts/_general/3D/GEN_3D_GeometryClashesInViewByAssembly.md)
+      - [● **GEN_3D**: Highlights Assembly Members That Has Clashes With Licked Elements](/_scripts/_general/3D/GEN_3D_GeometryClashesInViewByMembers.md)
     - AREA
       - [● **GEN_AE**: Generate Area Separator Lines from Floor](/_scripts/_general/AREA/GEN_AE_AreaSepLinefromFloor.md)
       - [● **GEN_AE**: Generate Area Separator Lines from Cad Layer](/_scripts/_general/AREA/GEN_AE_AreaBoundary_fromCADLayer.md)
       - [● **GEN_AE**: Create Area Data Based From Linked Rooms](/_scripts/_general/AREA/GEN_AE_GetAreaData_fromLinkedRooms.md)
     - ASSEMBLY
-      - [● **GEN_ASM**: POPULATE BY ASSEMBLY TYPE](/_scripts/_general/ASSEMBLY/GEN_ASM_AssemblyPopulateHost.md)
-      - [● **GEN_ASM**: HIGHLIGHTS ASSEMBLY THAT DOESN'T HAVE A HOST OR WORKPLANE](/_scripts/_general/ASSEMBLY/GEN_ASM_MembersHasNoWorkPlane.md)
+      - [● **GEN_ASM**: Populate By Assembly Type](/_scripts/_general/ASSEMBLY/GEN_ASM_AssemblyPopulateHost.md)
+      - [● **GEN_ASM**: Highlight Assembly That Doesn't Have A Host Or Workplane](/_scripts/_general/ASSEMBLY/GEN_ASM_MembersHasNoWorkPlane.md)
     - BOQ
       - [● **GEN_BOQ**: Get Element Location By Rooms](/_scripts/_general/BOQ/GEN_BOQ_ElementLocationByCategory.md)
     - CHECKER
@@ -61,22 +61,22 @@
       - 3D
         - [● **HLT_3D**: Generate Floor Plan, Sections & 3D View - By Pick Edge](/_scripts/_project/266_HLT/3D/HLT_3D_GenerateFPSEC_PickEdge.md)
         - [● **HLT_3D**: Generate Floor Plan, Sections & 3D View - By Section Box](/_scripts/_project/266_HLT/3D/HLT_3D_GenerateFPSEC_SectionBox.md)
-        - [● **HLT_3D**: HIGHLIGHTS ASSEMBLY THAT HAS CLASHES WITH LINKED ELEMENTS](/_scripts/_project/266_HLT/3D/HLT_3D_GeometryClashesInViewByAssembly.md)
-        - [● **HLT_3D**: HIGHLIGHTS ASSEMBLY MEMBERS THAT HAS CLASHES WITH LINKED ELEMENTS](/_scripts/_project/266_HLT/3D/HLT_3D_GeometryClashesInViewByMembers.md)
+        - [● **HLT_3D**: Highlights Assembly That Has Clashes With Licked Elements](/_scripts/_project/266_HLT/3D/HLT_3D_GeometryClashesInViewByAssembly.md)
+        - [● **HLT_3D**: Highlights Assembly Members That Has Clashes With Licked Elements](/_scripts/_project/266_HLT/3D/HLT_3D_GeometryClashesInViewByMembers.md)
       - ASSEMBLY
-        - [● **HLT_ASM**: POPULATE BY ASSEMBLY TYPE](/_scripts/_project/266_HLT/ASSEMBLY/HLT_ASM_AssemblyPopulateHost.md)
-        - [● **HLT_ASM**: HIGHLIGHTS ASSEMBLY THAT DOESN'T HAVE A HOST OR WORKPLANE](/_scripts/_project/266_HLT/ASSEMBLY/HLT_ASM_MembersHasNoWorkPlane.md)
-      - EXCEL
+        - [● **HLT_ASM**: Populate By Assembly Type](/_scripts/_project/266_HLT/ASSEMBLY/HLT_ASM_AssemblyPopulateHost.md)
+        - [● **HLT_ASM**: Highlights Assembly That Doesn't Have A Host Or Workplane](/_scripts/_project/266_HLT/ASSEMBLY/HLT_ASM_MembersHasNoWorkPlane.md)
+      - EXCEL 
         - [● **HLT_EXL**: Export Schedule Checklist](/_scripts/_project/266_HLT/EXCEL/HLT_3D_ExportScheduleChecklist.md)
       - WORKSETS
         - [● **HLT_WS**: Get Assemblies By Workset](/_scripts/_project/266_HLT/WORKSETS/HLT_WS_AssemblyByWorkset.md)
 
     - 268_JGC
       - FAMILY
-        - [● **JGC_FAM**: Center of Gravity](/_scripts/_project/268_JGC/FAMILY/JGC_FAM_CenterOfGravity.md)
-        - [● **JGC_FAM**: Metadata Retainer v.2.0.0](/_scripts/_project/268_JGC/FAMILY/JGC_FAM_MetadataRetainer.md)
-        - [● **JGC_FAM**: Metadata Transfer Selective](/_scripts/_project/268_JGC/FAMILY/JGC_FAM_MetadataTransferSelective.md)
-        - [● **JGC_FAM**: Metadata Transfer](/_scripts/_project/268_JGC/FAMILY/JGC_FAM_MetadataTransfer.md)
+        - [● **JGC_FML**: Center of Gravity](/_scripts/_project/268_JGC/FAMILY/JGC_FML_CenterOfGravity.md)
+        - [● **JGC_FML**: Metadata Retainer v.2.0.0](/_scripts/_project/268_JGC/FAMILY/JGC_FML_MetadataRetainer.md)
+        - [● **JGC_FML**: Metadata Transfer Selective](/_scripts/_project/268_JGC/FAMILY/JGC_FML_MetadataTransferSelective.md)
+        - [● **JGC_FML**: Metadata Transfer](/_scripts/_project/268_JGC/FAMILY/JGC_FML_MetadataTransfer.md)
       - FIXTURES
         - [● **JGC_FIX**: Electrical Devices & Fixtures Location](/_scripts/_project/268_JGC/FIXTURES/JGC_FIX_ElectricalDevices%26Fixtures_Location.md)
       - MECHANICAL EQUIPMENT
@@ -89,7 +89,7 @@
       - PIPES
         - [● **JGC_PL**: Isolate by Pipe and Slope and Fixer](/_scripts/_project/268_JGC/PIPES/JGC_PL_IsolateByPipeSlopeANDFixer.md)
       - SUPPORTS
-        - [● **JGC_SUP**: DUCT Hanger Placer](/_scripts/_project/268_JGC/SUPPORTS/JGC_SUP_DUCTHangerPlacer.md)
+        - [● **JGC_SUP**: Duct Hanger Placer](/_scripts/_project/268_JGC/SUPPORTS/JGC_SUP_DUCTHangerPlacer.md)
         - [● **JGC_SUP**: Pipe Hanger Placer](/_scripts/_project/268_JGC/SUPPORTS/JGC_SUP_PipeHangerPlacer.md)
       - VIEWS
         - [● **JGC_VW**: View Filter](/_scripts/_project/268_JGC/VIEWS/JGC_VW_ViewFilter.md)

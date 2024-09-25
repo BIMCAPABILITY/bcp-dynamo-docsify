@@ -11,7 +11,7 @@ All Notable Changes to the Script will be Documented in This File.
 
 | File Path | 
 | :-- |
-| 06_R&D\01_Automation\01_Dynamo\01_Scripts\2_PROJECT\266_HILTI|
+| 06_R&D\01_Automation\01_Dynamo\01_Scripts\02_PROJECT\266_HILTI|
 ------------------------------------------------------------------
 
 ### [1.0.0] - 2022-09-08

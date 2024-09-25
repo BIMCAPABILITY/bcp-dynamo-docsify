@@ -75,12 +75,16 @@ Element Codes for Directory and Script Naming
 | COORDINATES | COR |
 | CREATOR | CREA |
 | EXCEL | EXL |
+| EXPORT | EXP |
 | FAMILY | FML |
+| FIXTURES | FIX |
 | FLOORS | FLR |
 | GRID | GR|
 | LINES |  LI |
 | LINKS | LNK |
 | MATERIALS | MAT |
+| MECHANICAL EQUIPMENT| ME |
+| MEP | MEP |
 | RAMP | RMP |
 | RENAMER | REN |
 | ROOMS | RM |
