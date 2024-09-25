@@ -11,7 +11,7 @@ All Notable Changes to the Script will be Documented in This File.
 
 | File Path | 
 | :-- |
-|06_R&D\01_Automation\01_Dynamo\01_Scripts\02_PROJECT\268_JGC\FAMILY |
+|06_R&D\01_Automation\01_Dynamo\01_Scripts\02_PROJECT\268_JGC\FAMILY|
 ------------------------------------------------------------------
 
 ### [2.0.0] - 2023-04-09
